@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 •	2017 – Present – Lecturer of the course “Introduction to Signal Processing”, an undergraduate course in Biomedical Engineering, Faculty of Engineering, Tel Aviv University.
