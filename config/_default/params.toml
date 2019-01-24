@@ -109,13 +109,13 @@ gravatar = false
 #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
 #   translated.
 publication_types = [
-  'Journal papers',  # 0
-  'Conference paper'  # 1
-#  'Manuscript',  # 2
-#  'Report',  # 3
-#  'Book',  # 4
-#  'Book section'  # 5
-]
+  'Uncategorized',  # 0
+  'Conference paper',  # 1
+  'Journal paper',  # 2
+  'Manuscript',  # 3
+  'Report',  # 4
+  'Book',  # 5
+  'Book section'] # 6
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = true
