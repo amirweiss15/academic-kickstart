@@ -31,6 +31,8 @@ theme = "academic"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
+googlefonts = "//https://fonts.googleapis.com/css?family=Cardo|Cinzel|Nanum+Myeongjo|Sorts+Mill+Goudy"
+
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
