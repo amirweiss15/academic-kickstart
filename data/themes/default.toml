@@ -1,0 +1,16 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+# google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+googlefonts = "//https://fonts.googleapis.com/css?family=Cardo|Cinzel|Nanum+Myeongjo|Sorts+Mill+Goudy"
+
+# Font families
+heading_font = "Cinzel"
+body_font = "Cardo"
+nav_font = "Nanum Myeongjo"
+mono_font = "Cardo"
+
+# Font size
+font_size = "18"
+font_size_small = "14"
