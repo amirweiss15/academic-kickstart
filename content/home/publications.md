@@ -38,7 +38,7 @@ exclude_featured = false
 
 +++
 
-## Journal Papers ##
+## **Journal Papers** ##
 
 •	**Weiss, A.** and Yeredor, A., “Blind Determination of the Number of Sources Using Distance Correlation”, Submitted to _IEEE Signal Processing Letters_ in Dec. 2018.
 
@@ -53,7 +53,7 @@ exclude_featured = false
 •	**Weiss, A.**, Yeredor, A., Shtaif, M., “Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016.
 
 
-## Conference Papers ##
+## **Conference Papers** ##
 
 •	**Weiss, A.** and Yeredor, A., “Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution”, Submitted to _IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_ in Oct. 2018.
 
