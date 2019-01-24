@@ -62,22 +62,32 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "#contact"  # For a direct email link, use "mailto:amirweiss15@gmail.com".
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.il/citations?user=g8NtwsoAAAAJ&hl=en"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Amir_Weiss2"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-3104-6939"
+
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/GeorgeCushen"
+
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -87,3 +97,6 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
+
+Amir Weiss received the B.Sc. (cum laude) and M.Sc. degrees in Electrical Engineering from Tel-Aviv University (TAU), Tel-Aviv, Israel, in 2013 and 2015, respectively, where he is currently pursuing his Ph.D. degree at the School of Electrical Engineering, Department of Electrical Engineering-Systems. His research and teaching areas are in statistical and digital signal processing and estimation theory. He has also been holding a researcher position in these research areas with Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, since 2013, specializing in detection and parameters estimation of RADAR and SONAR signals.
+Amir has received the scholarship for excellent M.Sc. students from the Faculty of Engineering, TAU in 2015. He has won the Nadav Levanon studies prize for graduate students and the scientific publication prize (twice), all from the The Yitzhak and Chaya Weinstein Research Institute for Signal Processing in 2016, 2017 and 2018 respectively. He has also received the IEEE Signal Processing Society travel grant to the 2018 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2018) and The Ministry of Science and Technology scholarship for an international conference paper presentation in 2019.
