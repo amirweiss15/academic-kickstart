@@ -60,3 +60,5 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+googlefonts = "//https://fonts.googleapis.com/css?family=Cardo|Cinzel|Nanum+Myeongjo|Sorts+Mill+Goudy"
