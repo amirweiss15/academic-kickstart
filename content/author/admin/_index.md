@@ -70,6 +70,11 @@ interests = [
   link = "https://scholar.google.co.il/citations?user=g8NtwsoAAAAJ&hl=en"
 
 [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/amir-weiss-87a8863b/"
+
+[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Amir_Weiss2"
