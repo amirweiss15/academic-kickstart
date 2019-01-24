@@ -28,7 +28,7 @@ logo = ""
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Show estimated reading time for posts?
 reading_time = true
@@ -61,16 +61,16 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
+  email = "amirweiss15@gmail.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  #office_hours = """Monday 10:00 to 13:00<br>
+  #                  Wednesday 09:00 to 10:00<br>
+  #                  Otherwise email to book an appointment"""
+  #phone = "888 888 88 88"
+  skype = "amirweiss15"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -94,11 +94,11 @@ gravatar = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  # map = 0
+  # map_api_key = ""
+  # latitude = "37.4275"
+  # longitude = "-122.1697"
+  # zoom = 15
 
 # Publication types.
 #   Used to categorize publications.
@@ -108,13 +108,12 @@ gravatar = false
 #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
 #   translated.
 publication_types = [
-  'Uncategorized',  # 0
-  'Conference paper',  # 1
-  'Journal article',  # 2
-  'Manuscript',  # 3
-  'Report',  # 4
-  'Book',  # 5
-  'Book section'  # 6
+  'Journal papers',  # 0
+  'Conference paper'  # 1
+#  'Manuscript',  # 2
+#  'Report',  # 3
+#  'Book',  # 4
+#  'Book section'  # 5
 ]
 
 # Align the main menu to the right of the page? (true/false)
