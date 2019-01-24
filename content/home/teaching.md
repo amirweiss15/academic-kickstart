@@ -18,7 +18,7 @@ weight = 50
 
 •	2017 – Present – Teaching assistant in the course “Communication Systems”, an undergraduate course in the International Program of Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
 
-•	Present - Teaching assistant in the course “Random Processes”, a graduate-level course in the Faculty of Engineering, Tel -Aviv University.
+•	Present - Teaching assistant in the course “Random Processes”, a graduate-level course in the Faculty of Engineering, Tel-Aviv University.
 
 •	2013 - Present – Teaching assistant in the course “Introduction to Statistical Signal Processing”, an undergraduate and graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
 
