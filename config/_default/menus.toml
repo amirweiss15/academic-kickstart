@@ -13,10 +13,16 @@
   url = "#publications"
   weight = 2
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 2
+  [[main]]
+    name = "Teaching"
+    url = "#teaching"
+    weight = 2
+
+  [[main]]
+    name = "Academic Awards"
+    url = "#awards"
+    weight = 2
+
 
 #[[main]]
 #  name = "Posts"
