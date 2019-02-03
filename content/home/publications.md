@@ -55,7 +55,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution”, Submitted to _IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_ in Oct. 2018.
+•	**Weiss, A.** and Yeredor, A., “Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution”, to appear in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Accepted Feb. 2019.
 
 •	**Weiss, A.** and Yeredor, A., “Online Adaptive Quasi-Maximum Likelihood Blind Source Separation of Stationary Sources”, to appear in _Proc. of 30th IEEE Int. Conference on the Science of Electrical Engineers (ICSEE)_, Dec. 2018.
 
