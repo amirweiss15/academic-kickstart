@@ -38,6 +38,7 @@ interests = [
 
 [[education.courses]]
   course = "B.Sc. in Electrical Engineering (Manga Cum Laude)"
+  course = "(Manga Cum Laude)"
   institution = "Tel-Aviv University"
   year = 2013
 
