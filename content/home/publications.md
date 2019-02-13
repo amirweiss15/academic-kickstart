@@ -44,7 +44,7 @@ exclude_featured = false
 
 •	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Submitted to _IEEE Transactions on Signal Processing_ in Aug. 2018.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/Performance_Analysis_QML_TSP.pdf" "newtab" %}}Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis{{% /staticref %}}”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018.
 
 •	Yeredor, A., **Weiss, A.** and Weiss, A.J., “High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models”, _IEEE Transactions on Signal Processing_, vol. 66, no. 18, pp. 4782-4795, Sept. 2018.
 
