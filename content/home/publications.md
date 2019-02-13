@@ -44,13 +44,13 @@ exclude_featured = false
 
 •	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Submitted to _IEEE Transactions on Signal Processing_ in Aug. 2018.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/Performance_Analysis_QML_TSP.pdf" "newtab" %}}Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis{{% /staticref %}}”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/Performance_Analysis_QML_TSP2018.pdf" "newtab" %}}Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis{{% /staticref %}}”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018.
 
-•	Yeredor, A., **Weiss, A.** and Weiss, A.J., “High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models”, _IEEE Transactions on Signal Processing_, vol. 66, no. 18, pp. 4782-4795, Sept. 2018. {{% staticref "files/HOPA_TSP.pdf" "newtab" %}}PDF{{% /staticref %}}
+•	Yeredor, A., **Weiss, A.** and Weiss, A.J., “{{% staticref "files/HOPA_TSP2018.pdf" "newtab" %}}High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models{{% /staticref %}}”, _IEEE Transactions on Signal Processing_, vol. 66, no. 18, pp. 4782-4795, Sept. 2018.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/Extended_SeDJoCo_TSP2017.pdf" "newtab" %}}The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis{{% /staticref %}}”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017.
 
-•	**Weiss, A.**, Yeredor, A., Shtaif, M., “Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016.
+•	**Weiss, A.**, Yeredor, A., Shtaif, M., “{{% staticref "files/ISEA_JLT2016.pdf" "newtab" %}}Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems{{% /staticref %}}”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016.
 
 
 ## **Conference Papers** ##
@@ -59,24 +59,24 @@ exclude_featured = false
 
 •	**Weiss, A.** and Yeredor, A., “Online Adaptive Quasi-Maximum Likelihood Blind Source Separation of Stationary Sources”, to appear in _Proc. of 30th IEEE Int. Conference on the Science of Electrical Engineers (ICSEE)_, Dec. 2018.
 
-•	**Weiss, A.** and Yeredor, A., “Bounds on Passive TDOA Estimation in Mixtures”, in _Proc. IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 447 - 451, June 2018.
+•	**Weiss, A.** and Yeredor, A., “{{% staticref "files/BoundsOnPassiveTDOAInMixtures_SSP2018.pdf" "newtab" %}}Bounds on Passive TDOA Estimation in Mixtures{{% /staticref %}}”, in _Proc. IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 447 - 451, June 2018.
 
-•	**Weiss, A.** and Yeredor, A., “Non-Iterative Missing Samples Recovery of ECG Signals by LMMSE Estimation for an Autoregressive Cyclostationary Model”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 930 - 934, Apr. 2018.
+•	**Weiss, A.** and Yeredor, A., “{{% staticref "files/ECG_ICASSP2018.pdf" "newtab" %}}Non-Iterative Missing Samples Recovery of ECG Signals by LMMSE Estimation for an Autoregressive Cyclostationary Model{{% /staticref %}}”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 930 - 934, Apr. 2018.
 
-•	**Weiss, A.** and Yeredor, A., Cheema, S. A. and Haardt, M., “On Consistency and Asymptotic Uniqueness in Quasi-Maximum Likelihood Blind Separation of Temporally-Diverse Sources”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4459 - 4463, Apr. 2018.
+•	**Weiss, A.** and Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/QML_ICASSP2018.pdf" "newtab" %}}On Consistency and Asymptotic Uniqueness in Quasi-Maximum Likelihood Blind Separation of Temporally-Diverse Sources{{% /staticref %}}”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4459 - 4463, Apr. 2018.
 
-•	Cheng, Y., Cheema, S. A., Haardt, M., **Weiss, A.** and Yeredor, A., “First-Order Perturbation Analysis of SECSI with Generalized Unfoldings”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 3196 - 3200, Apr. 2018.
+•	Cheng, Y., Cheema, S. A., Haardt, M., **Weiss, A.** and Yeredor, A., “{{% staticref "files/PA_SECSI_GU_ICASSP2018.pdf" "newtab" %}}First-Order Perturbation Analysis of SECSI with Generalized Unfoldings{{% /staticref %}}”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 3196 - 3200, Apr. 2018.
 
-•	Cheng, Y., Cheema, S. A., Haardt, M., **Weiss, A.** and Yeredor, A., “Performance Analysis of Least-Squares Khatri-Rao Factorization”, in _Proc. IEEE 7th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 447 - 451, Dec. 2017.
+•	Cheng, Y., Cheema, S. A., Haardt, M., **Weiss, A.** and Yeredor, A., “{{% staticref "files/PA_LS_KhatriRao_CAMSAP2017.pdf" "newtab" %}}Performance Analysis of Least-Squares Khatri-Rao Factorization{{% /staticref %}}”, in _Proc. IEEE 7th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 447 - 451, Dec. 2017.
 
-•	Cheema, S. A., Balda, E. R., **Weiss, A.**, Yeredor, A. and Haardt, M., “Analytical Performance Analysis of the Semi-Algebraic Framework for Approximate CP Decompositions via Simultaneous Matrix Diagonalizations (SECSI)”, in _Proc. of 51st Asilomar Conf. on Signals, Systems, and Computers_, Nov. 2017, invited paper.
+•	Cheema, S. A., Balda, E. R., **Weiss, A.**, Yeredor, A. and Haardt, M., “{{% staticref "files/PA_SECSI_Asilomar2017.pdf" "newtab" %}}Analytical Performance Analysis of the Semi-Algebraic Framework for Approximate CP Decompositions via Simultaneous Matrix Diagonalizations (SECSI){{% /staticref %}}”, in _Proc. of 51st Asilomar Conf. on Signals, Systems, and Computers_, Nov. 2017, invited paper.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “A Maximum Likelihood “Identification-Correction” Scheme of Sub-Optimal “SeDJoCo” Solutions for Semi-Blind Source Separation”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4158 - 4162, Mar. 2017.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “{{% staticref "files/Gaussian_ML_Scheme_ICASSP2017.pdf" "newtab" %}}A Maximum Likelihood “Identification-Correction” Scheme of Sub-Optimal “SeDJoCo” Solutions for Semi-Blind Source Separation{{% /staticref %}}”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4158 - 4162, Mar. 2017.
 
-•	Balda, E. R., Cheema, S. A., **Weiss, A.**, Yeredor, A. and Haardt, M., “Perturbation Analysis of Joint Eigenvalue Decomposition Algorithms”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 3101 - 3105, Mar. 2017.
+•	Balda, E. R., Cheema, S. A., **Weiss, A.**, Yeredor, A. and Haardt, M., “{{% staticref "files/PA_Joint_Eigenvalue_ICASSP2017.pdf" "newtab" %}}Perturbation Analysis of Joint Eigenvalue Decomposition Algorithms{{% /staticref %}}”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 3101 - 3105, Mar. 2017.
 
-•	Balda, E. R., Cheema, S. A., Steinwandt, J., Haardt, M., **Weiss, A.** and Yeredor, A., “First-Order Perturbation Analysis of Low-Rank Tensor Approximations Based on the Truncated HOSVD”, in _Proc. of 50th Asilomar Conf. Signals, Systems, and Computers_, pp. 1723 - 1727, Nov. 2016, invited paper.
+•	Balda, E. R., Cheema, S. A., Steinwandt, J., Haardt, M., **Weiss, A.** and Yeredor, A., “{{% staticref "files/PA_Truncated_HOSVD_Asilomar2016.pdf" "newtab" %}}First-Order Perturbation Analysis of Low-Rank Tensor Approximations Based on the Truncated HOSVD{{% /staticref %}}”, in _Proc. of 50th Asilomar Conf. Signals, Systems, and Computers_, pp. 1723 - 1727, Nov. 2016, invited paper.
 
-•	Cheng, Y., Yeredor, A., **Weiss, A.** and Haardt, M., “Extension of the “Sequentially Drilled” Joint Congruence Transformation (SeDJoCo) Problem”, in _Proc. IEEE 6th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 185 - 188, Dec. 2015.
+•	Cheng, Y., Yeredor, A., **Weiss, A.** and Haardt, M., “{{% staticref "files/Extended_SeDJoCo_CAMSAP2015.pdf" "newtab" %}}Extension of the “Sequentially Drilled” Joint Congruence Transformation (SeDJoCo) Problem{{% /staticref %}}”, in _Proc. IEEE 6th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 185 - 188, Dec. 2015.
 
-•	**Weiss, A.**, Yeredor, A., Shtaif, M., “MSE Reduction in Digital Compensation for Non-Linear Analog Channels”, in _Proc. of 28th IEEE Convention of Electrical & Electronics Engineers in Israel (IEEEI2014)_, Dec. 2014.
+•	**Weiss, A.**, Yeredor, A., Shtaif, M., “{{% staticref "files/MSE_IEEEI2014.pdf" "newtab" %}}MSE Reduction in Digital Compensation for Non-Linear Analog Channels{{% /staticref %}}”, in _Proc. of 28th IEEE Convention of Electrical & Electronics Engineers in Israel (IEEEI2014)_, Dec. 2014.
