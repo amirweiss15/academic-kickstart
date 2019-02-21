@@ -23,6 +23,8 @@ list_format = 2
 exclude_featured = false
 +++
 
+•	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at the Department of Electrical & Computer Engineering Seminar at The Ben-Gurion University of the Negev, Beer-Sheva, Israel, May 2019.
+
 •	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at the Machine Learning and Statistics Seminar at The Weizmann Institute of Science, Rehovot, Israel, January 2019.
 
 •	**Weiss, A.**, “A New Approach For DCO-OFDM and Comments on Algorithmic Development Thinking”, at Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, January 2019.
