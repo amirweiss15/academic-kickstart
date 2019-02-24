@@ -22,7 +22,8 @@ email = "amirweiss15@gmail.com"
 interests = [
   "Statistical Signal Processing",
   "Digital Signal Processing",
-  "Detection and Estimation Theory"
+  "Detection and Estimation Theory",
+  "Blind Source Separation"
 ]
 
 # List qualifications (such as academic degrees)
