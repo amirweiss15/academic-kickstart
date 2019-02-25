@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “Blind Determination of the Number of Sources Using Distance Correlation”, Submitted to _IEEE Signal Processing Letters_ in Dec. 2018.
+•	**Weiss, A.** and Yeredor, A., “Blind Determination of the Number of Sources Using Distance Correlation”, to appear in _IEEE Signal Processing Letters_, Accepted Feb. 2019.
 
 •	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Submitted to _IEEE Transactions on Signal Processing_ in Aug. 2018.
 
