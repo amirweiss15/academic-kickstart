@@ -14,6 +14,10 @@ subtitle = ""
 weight = 60
 
 +++
+•	2019 – The David and Paulina Trotsky foundation award for outstanding Ph.D. students.
+
+•	2019 – The Gutwirth foundation scholarship.
+
 •	2018 – The Israeli Ministry of Science and Technology scholarship for an international conference paper presentation.
 
 •	2018 – The IEEE Signal Processing Society travel grant to the 2018 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2018, on a highly competitive basis).
@@ -24,4 +28,4 @@ weight = 60
 
 •	2016 - The Yitzhak and Chaya Weinstein Research Institute for Signal Processing studies award and The Nadav Levanon award for outstanding graduate students.
 
-•	2015 - Outstanding M.Sc. Student fellowship, Faculty of Engineering, Tel Aviv University.
+•	2015 - Outstanding M.Sc. student award, Faculty of Engineering, Tel Aviv University.
