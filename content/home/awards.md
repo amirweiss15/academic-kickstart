@@ -16,7 +16,7 @@ weight = 60
 +++
 •	2019 – The David and Paulina Trotsky foundation award for outstanding Ph.D. students.
 
-• 2019 – The Miriam and Aaron Gutwirth foundation scholarship.
+• 2019 – The Miriam and Aaron Gutwirth foundation scholarship .
 
 •	2018 – The Israeli Ministry of Science and Technology scholarship for an international conference paper presentation.
 
