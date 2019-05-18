@@ -14,6 +14,8 @@ subtitle = ""
 weight = 60
 
 +++
+•	2019 – The Yitzhak and Chaya Weinstein Research Institute for Signal Processing David Burshtein award for scientific paper publication.
+
 •	2019 – The David and Paulina Trotsky foundation award for outstanding Ph.D. students.
 
 • 2019 – The Miriam and Aaron Gutwirth foundation scholarship.
@@ -26,6 +28,6 @@ weight = 60
 
 •	2017 - The Yitzhak and Chaya Weinstein Research Institute for Signal Processing award for scientific paper publication.
 
-•	2016 - The Yitzhak and Chaya Weinstein Research Institute for Signal Processing studies award and The Nadav Levanon award for outstanding graduate students.
+•	2016 - The Yitzhak and Chaya Weinstein Research Institute for Signal Processing Nadav Levanon studies award for outstanding graduate students.
 
 •	2015 - Outstanding M.Sc. student award, Faculty of Engineering, Tel Aviv University.
