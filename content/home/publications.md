@@ -81,4 +81,4 @@ exclude_featured = false
 
 •	Cheng, Y., Yeredor, A., **Weiss, A.** and Haardt, M., “Extension of the “Sequentially Drilled” Joint Congruence Transformation (SeDJoCo) Problem”, in _Proc. IEEE 6th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 185 - 188, Dec. 2015.
 
-•	**Weiss, A.**, Yeredor, A., Shtaif, M., “MSE Reduction in Digital Compensation for Non-Linear Analog Channels”, in _Proc. of 28th IEEE Convention of Electrical & Electronics Engineers in Israel (IEEEI2014)_, Dec. 2014.
+•	**Weiss, A.**, Yeredor, A., Shtaif, M., “[MSE Reduction in Digital Compensation for Non-Linear Analog Channels](https://ieeexplore.ieee.org/document/7005809)”, in _Proc. of 28th IEEE Convention of Electrical & Electronics Engineers in Israel (IEEEI2014)_, Dec. 2014.
