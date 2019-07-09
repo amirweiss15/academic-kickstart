@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Accepted to _IEEE Transactions on Signal Processing_ in June 2019.
+•	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Accepted for publication in _IEEE Transactions on Signal Processing_, in June 2019.
 
 •	**Weiss, A.** and Yeredor, A., “[Blind Determination of the Number of Sources Using Distance Correlation](https://ieeexplore.ieee.org/document/8653964)”, _IEEE Signal Processing Letters_,  vol. 26, no. 6, pp. 828-832, June 2018.
 
@@ -55,7 +55,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting”, Accepted to _the 27th European Signal Processing Conference, EUSIPCO 2019_, in June 2019.
+•	**Weiss, A.** and Yeredor, A., “Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting”, Accepted for publication to _the 27th European Signal Processing Conference, EUSIPCO 2019_, in June 2019.
 
 •	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution](https://ieeexplore.ieee.org/document/8682761)”, in _Proc. IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5466 - 5470, May 2019.
 
