@@ -41,6 +41,7 @@ exclude_featured = false
 ## **Journal Papers** ##
 
 •	**Weiss, A.** and Yeredor, A., “A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures”, Accepted for publication in _IEEE Transactions on Signal Processing_, in June 2019.
+[Supplementary Material (Matlab code)](https://codeocean.com/capsule/4297679/tree/v1)
 
 •	**Weiss, A.** and Yeredor, A., “[Blind Determination of the Number of Sources Using Distance Correlation](https://ieeexplore.ieee.org/document/8653964)”, _IEEE Signal Processing Letters_,  vol. 26, no. 6, pp. 828-832, June 2018.
 
