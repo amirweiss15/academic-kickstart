@@ -23,6 +23,8 @@ list_format = 2
 exclude_featured = false
 +++
 
+•	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, Ph.D. Seminar at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019.
+
 •	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at the Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019.
 
 •	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at the BIU Engineering Colloquium at Bar-Ilan University, Ramat Gan, Israel, June 2019.
