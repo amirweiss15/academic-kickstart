@@ -14,6 +14,8 @@ subtitle = ""
 weight = 60
 
 +++
+•	2019 – The European Association for Signal Processing (EURASIP) travel grant to the 27th European Signal Processing Conference (EUSIPCO 2019, on a competitive basis).
+
 •	2019 – The Yitzhak and Chaya Weinstein Research Institute for Signal Processing David Burshtein award for scientific paper publication.
 
 •	2019 – The David and Paulina Trotsky foundation award for outstanding Ph.D. students.
