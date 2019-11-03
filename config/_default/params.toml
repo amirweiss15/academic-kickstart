@@ -62,7 +62,7 @@ gravatar = false
 
 # Contact Widget setup
   email = "amirweiss15@gmail.com"
-  address = "Electrical Engineering - Software Building, Room 309, Tel-Aviv University, Tel-Aviv, 6997801, Israel"
+  address = "Jacob Ziskind Building, Room 205, Weizmann Institute of Science, Rehovot, 7610001, Israel"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   #office_hours = """Monday 10:00 to 13:00<br>
   #                  Wednesday 09:00 to 10:00<br>
