@@ -22,6 +22,7 @@ email = "amirweiss15@gmail.com"
 interests = [
   "Statistical Signal Processing",
   "Digital Signal Processing",
+  "Array Processing",
   "Detection and Estimation Theory",
   "Blind Source Separation"
 ]
