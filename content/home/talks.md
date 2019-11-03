@@ -23,21 +23,14 @@ list_format = 2
 exclude_featured = false
 +++
 
-•	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at
-
-    o	The School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar)
-
-    o	The Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019
-
-    o	The BIU Engineering Colloquium at Bar-Ilan University, Ramat Gan, Israel, June 2019
-
-    o The Department of Statistics and Data Science Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, June 2019
-
-    o The Department of Electrical & Computer Engineering Seminar at Ben-Gurion University of the Negev, Beer-Sheva, Israel, May 2019
-
-    o The Learning Club Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, May 2019
-
-    o The Machine Learning and Statistics Seminar at The Weizmann Institute of Science, Rehovot, Israel, January 2019
+•	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at\n
+    o	The School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar)\n
+    o	The Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019\n
+    o	The BIU Engineering Colloquium at Bar-Ilan University, Ramat Gan, Israel, June 2019\n
+    o The Department of Statistics and Data Science Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, June 2019\n
+    o The Department of Electrical & Computer Engineering Seminar at Ben-Gurion University of the Negev, Beer-Sheva, Israel, May 2019\n
+    o The Learning Club Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, May 2019\n
+    o The Machine Learning and Statistics Seminar at The Weizmann Institute of Science, Rehovot, Israel, January 2019\n
 
 •	**Weiss, A.**, “A New Approach For DCO-OFDM and Comments on Algorithmic Development Thinking”, at Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, January 2019.
 
