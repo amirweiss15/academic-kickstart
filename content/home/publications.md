@@ -56,7 +56,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “[Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/abstract/document/8902742)”, in _Proc. of the 27th European Signal Processing Conference, EUSIPCO 2019_, pp. 1--5, Sep. 2019.
+•	**Weiss, A.** and Yeredor, A., “[Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/abstract/document/8902742)”, in _Proc. of the 27th European Signal Processing Conference (EUSIPCO 2019)_, pp. 1--5, Sep. 2019.
 
 •	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution](https://ieeexplore.ieee.org/document/8682761)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5466--5470, May 2019.
 
