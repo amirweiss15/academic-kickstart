@@ -23,8 +23,23 @@ list_format = 2
 exclude_featured = false
 +++
 
-•	**Weiss, A.**, “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”, at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar).
+•	**Weiss, A., “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”**
 
-•	**Weiss, A.**, “A New Approach For DCO-OFDM and Comments on Algorithmic Development Thinking”, at Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, January 2019.
+* at the Department of Electrical Engineering and Computer Science Seminar, University of Michigan, Ann Arbor, MI, USA, December 2019.
+* at the Signals, Information, and Algorithms Laboratory Seminar, Massachusetts Institute of Technology, Cambridge, MA, USA, December 2019.
+* at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar).
+* at the Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019.
+* at the BIU Engineering Colloquium at Bar-Ilan University, Ramat Gan, Israel, June 2019.
+* at the Department of Statistics and Data Science Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, June 2019.
+* at the Department of Electrical & Computer Engineering Seminar at Ben-Gurion University of the Negev, Beer-Sheva, Israel, May 2019.
+* at the Learning Club Seminar at The Hebrew University of Jerusalem, Jerusalem, Israel, May 2019.
+* at the Machine Learning and Statistics Seminar at The Weizmann Institute of Science, Rehovot, Israel, January 2019.
 
-•	**Weiss, A.**, “Digital Signal Processing Techniques for Performance Enhancement of Electro-Optical Communication Systems”, at the Technische Universität Ilmenau (TU Ilmenau), Ilmenau, Germany, January 2016.
+•	**Weiss, A., “A New Approach For DCO-OFDM and Comments on Algorithmic Development Thinking”**
+
+* at Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, January 2019.
+
+•	**Weiss, A., “Digital Signal Processing Techniques for Performance Enhancement of Electro-Optical Communication Systems”**
+
+* at the Technische Universität Ilmenau (TU Ilmenau), Ilmenau, Germany, January 2016.
+* at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, June 2015 (M.Sc. Seminar).
