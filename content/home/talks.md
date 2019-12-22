@@ -41,5 +41,5 @@ exclude_featured = false
 
 •	**Weiss, A., “Digital Signal Processing Techniques for Performance Enhancement of Electro-Optical Communication Systems”**
 
-- at the Technische Universität Ilmenau (TU Ilmenau), Ilmenau, Germany, January 2016.
-- at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, June 2015 (M.Sc. Seminar).
+* at the Technische Universität Ilmenau (TU Ilmenau), Ilmenau, Germany, January 2016.
+* at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, June 2015 (M.Sc. Seminar).
