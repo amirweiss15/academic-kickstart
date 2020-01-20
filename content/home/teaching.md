@@ -14,12 +14,12 @@ subtitle = ""
 weight = 50
 
 +++
-•	2017–2019 — Lecturer of the course “Introduction to Signal Processing”, an undergraduate course in Biomedical Engineering, Faculty of Engineering, Tel-Aviv University.
+• 2017-2019 — Lecturer of the course “Introduction to Signal Processing”, an undergraduate course in Biomedical Engineering, Faculty of Engineering, Tel-Aviv University.
 
-•	2017–2019 — Teaching assistant in the course “Communication Systems”, an undergraduate course in the International Program of Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
+• 2017-2019 — Teaching assistant in the course “Communication Systems”, an undergraduate course in the International Program of Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
 
-•	2018 — Teaching assistant in the course “Random Processes”, a graduate-level course in the Faculty of Engineering, Tel-Aviv University.
+• 2018 — Teaching assistant in the course “Random Processes”, a graduate-level course in the Faculty of Engineering, Tel-Aviv University.
 
-•	2013-2019 — Teaching assistant in the course “Introduction to Statistical Signal Processing”, an undergraduate and graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
+• 2013-2019 — Teaching assistant in the course “Introduction to Statistical Signal Processing”, an undergraduate and graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
 
-•	2014 — Teaching assistant in the course “Estimation Theory”, a graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
+• 2014 — Teaching assistant in the course “Estimation Theory”, a graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.

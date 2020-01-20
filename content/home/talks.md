@@ -26,6 +26,7 @@ exclude_featured = false
 •	**Weiss, A., “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”**
 
 * at the Department of Electrical Engineering and Computer Science Seminar, University of Michigan, Ann Arbor, MI, USA, December 2019.
+[[Video available](http://leccap.engin.umich.edu/leccap/viewer/r/eyGrsl), courtesy of UM ECE]
 * at the Signals, Information, and Algorithms Laboratory Seminar, Massachusetts Institute of Technology, Cambridge, MA, USA, December 2019.
 * at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar).
 * at the Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019.
