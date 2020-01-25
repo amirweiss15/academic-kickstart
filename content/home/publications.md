@@ -56,11 +56,13 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	**Weiss, A.**, Nadler, B. and Yeredor, A., “Asymptotically Optimal Blind Calibration of Acoustic Vector Sensor Uniform Linear Arrays”, to appear in: _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, May 2020.
+
 •	**Weiss, A.** and Yeredor, A., “[Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/abstract/document/8902742)”, in _Proc. of the 27th European Signal Processing Conference (EUSIPCO 2019)_, pp. 1--5, Sep. 2019.
 
 •	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution](https://ieeexplore.ieee.org/document/8682761)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5466--5470, May 2019.
 
-•	**Weiss, A.** and Yeredor, A., “[Online Adaptive Quasi-Maximum Likelihood Blind Source Separation of Stationary Sources](https://ieeexplore.ieee.org/document/8646120)”, in _Proc. of 2018 IEEE International Conference on the Science of Electrical Engineering in Israel (ICSEE)_, pp. 1--5, Dec. 2018.
+•	**Weiss, A.** and Yeredor, A., “[Online Adaptive Quasi-Maximum Likelihood Blind Source Separation of Stationary Sources](https://ieeexplore.ieee.org/document/8646120)”, in _Proc. of 2018 IEEE Int. Conference on the Science of Electrical Engineering in Israel (ICSEE)_, pp. 1--5, Dec. 2018.
 
 •	**Weiss, A.** and Yeredor, A., “[Bounds on Passive TDOA Estimation in Mixtures](https://ieeexplore.ieee.org/document/8450810)”, in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 447--451, June 2018.
 
