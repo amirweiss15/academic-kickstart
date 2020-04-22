@@ -34,12 +34,17 @@ interests = [
 #  year = 2012
 
 [[education.courses]]
+  course = "Ph.D. in Electrical Engineering"
+  institution = "Tel-Aviv University"
+  year = 2020
+
+[[education.courses]]
   course = "M.Sc. in Electrical Engineering"
   institution = "Tel-Aviv University"
   year = 2015
 
 [[education.courses]]
-  course = "B.Sc. in Electrical Engineering (magna cum laude)"
+  course = "B.Sc. in Electrical Engineering (_magna cum laude_)"
   institution = "Tel-Aviv University"
   year = 2013
 
@@ -105,4 +110,4 @@ interests = [
 
 +++
 
-I received the B.Sc. (magna cum laude) and M.Sc. degrees in Electrical Engineering from Tel-Aviv University (TAU), Tel-Aviv, Israel, in 2013 and 2015, respectively, where I recently submitted my Ph.D. dissertation at the School of Electrical Engineering, Department of Electrical Engineering-Systems, and was very fortunate to have [Prof. Arie Yeredor](https://www.eng.tau.ac.il/~arie/) as my supervisor. I am currently a postdoctoral fellow at the Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel, hosted by [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home). My main research areas are in statistical and digital signal processing, array processing and estimation theory. I have also been holding a (part-time) researcher position in these research areas with Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, since 2013, specializing in detection and parameters estimation of RADAR and SONAR signals.
+I received the B.Sc. (_magna cum laude_), M.Sc. and Ph.D. degrees in Electrical Engineering from Tel-Aviv University (TAU), Tel-Aviv, Israel, in 2013, 2015 and 2020, respectively, where I was very fortunate to have [Prof. Arie Yeredor](https://www.eng.tau.ac.il/~arie/) as my supervisor. I am currently a postdoctoral fellow at the Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel, hosted by [Prof. Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home). My main research areas are in statistical and digital signal processing, array processing and estimation theory. I have also been holding a (part-time) researcher position in these research areas with Elbit Systems, EW and SIGINT Elisra Ltd., Holon, Israel, since 2013, specializing in detection and parameters estimation of RADAR and SONAR signals.
