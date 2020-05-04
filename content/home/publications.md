@@ -56,7 +56,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.**, Nadler, B. and Yeredor, A., “Asymptotically Optimal Blind Calibration of Acoustic Vector Sensor Uniform Linear Arrays”, to appear in: _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, May 2020.
+•	**Weiss, A.**, Nadler, B. and Yeredor, A., “[Asymptotically Optimal Blind Calibration of Acoustic Vector Sensor Uniform Linear Arrays](https://ieeexplore.ieee.org/document/9053241)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4677--4681, May 2020.
 
 •	**Weiss, A.** and Yeredor, A., “[Blind Calibration of Sensor Arrays for Narrowband Signals with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/abstract/document/8902742)”, in _Proc. of the 27th European Signal Processing Conference (EUSIPCO 2019)_, pp. 1--5, Sep. 2019.
 
