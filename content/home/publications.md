@@ -40,20 +40,20 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Blind Calibration of Uniform Linear Sensor Arrays for Narrowband Gaussian Signals](https://ieeexplore.ieee.org/document/9161287)”, accepted for publication in _IEEE Transactions on Signal Processing_, Aug. 2020.
+•	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Blind Calibration of Uniform Linear Sensor Arrays for Narrowband Gaussian Signals](https://ieeexplore.ieee.org/document/9161287)”, accepted for publication in _IEEE Transactions on Signal Processing_, Aug. 2020. [arXiv](https://arxiv.org/pdf/2008.13091.pdf)
 
 •	**Weiss, A.** and Yeredor, A., “[A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures](https://ieeexplore.ieee.org/document/8772216)”, _IEEE Transactions on Signal Processing_, vol. 67, no. 19, pp. 5032-5045, Oct. 2019.
 {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}Supplementary Material (Matlab code){{% /staticref %}}. [arXiv](https://arxiv.org/abs/1810.09165)
 
-•	**Weiss, A.** and Yeredor, A., “[Blind Determination of the Number of Sources Using Distance Correlation](https://ieeexplore.ieee.org/document/8653964)”, _IEEE Signal Processing Letters_,  vol. 26, no. 6, pp. 828-832, June 2019.
+•	**Weiss, A.** and Yeredor, A., “[Blind Determination of the Number of Sources Using Distance Correlation](https://ieeexplore.ieee.org/document/8653964)”, _IEEE Signal Processing Letters_,  vol. 26, no. 6, pp. 828-832, June 2019. [arXiv](https://arxiv.org/pdf/2008.13096.pdf)
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
 
 •	Yeredor, A., **Weiss, A.** and Weiss, A.J., “[High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models](https://ieeexplore.ieee.org/document/8423486)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 18, pp. 4782-4795, Sept. 2018.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017.
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
 
-•	**Weiss, A.**, Yeredor, A., Shtaif, M., “[Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems](https://ieeexplore.ieee.org/document/7393452)”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016.
+•	**Weiss, A.**, Yeredor, A., Shtaif, M., “[Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems](https://ieeexplore.ieee.org/document/7393452)”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016. [arXiv](https://arxiv.org/pdf/2008.13391.pdf)
 
 
 ## **Conference Papers** ##
