@@ -51,7 +51,7 @@ exclude_featured = false
 
 •	Yeredor, A., **Weiss, A.** and Weiss, A.J., “[High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models](https://ieeexplore.ieee.org/document/8423486)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 18, pp. 4782-4795, Sept. 2018.
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}} Matlab Package{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
 
 •	**Weiss, A.**, Yeredor, A., Shtaif, M., “[Iterative Symbol Recovery for Power Efficient DC Biased Optical OFDM Systems](https://ieeexplore.ieee.org/document/7393452)”, _Journal of Lightwave Technology_, vol. 34, no. 9, pp. 2331-2338, May 2016. [arXiv](https://arxiv.org/pdf/2008.13391.pdf)
 
