@@ -24,7 +24,9 @@ interests = [
   "Digital Signal Processing",
   "Array Processing",
   "Detection and Estimation Theory",
-  "Blind Source Separation"
+  "Statistical Inference",
+  "Blind Source Separation",
+  "Blind Calibration"
 ]
 
 # List qualifications (such as academic degrees)
