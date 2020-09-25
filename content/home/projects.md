@@ -1,14 +1,14 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Downloads"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 2
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -41,8 +41,8 @@ filter_default = 0
 #   tag = "*"
 #
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
+#   name = "Blind Source Separation"
+#   tag = "Blind Source Separation"
 #
 # [[filter]]
 #   name = "Other"

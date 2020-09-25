@@ -50,7 +50,7 @@ highlight = true
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable in-built social sharing buttons?
-sharing = true
+sharing = false
 
 # Privacy pack
 #   Show a cookie consent message to visitors
