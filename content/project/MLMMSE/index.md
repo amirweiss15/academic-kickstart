@@ -51,4 +51,4 @@ summary = "Matlab Package for ML-based MMSE separation and estimation of station
 
 This package contains three files: a (readme) detailed instruction file, the main funcion performing the ML-based MMSE separation, and a script which demonstrate this function's operation for an ICA probelm with temporally-diverse stationary Gaussian sources.
 
-To download the Matlab Package, {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}click here{{% /staticref %}}.
+To download the Matlab package, {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}click here{{% /staticref %}}.
