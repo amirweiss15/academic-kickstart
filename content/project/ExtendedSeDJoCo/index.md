@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "“Extended SeDJoCo"
+title = "Extended SeDJoCo"
 
 # Date this page was created.
 date = 2020-09-25T00:00:00
@@ -47,10 +47,10 @@ summary = "Matlab package for the Extended “Sequentially Drilled” Joint Cong
 
 | ![extended_SeDJoCo_image](/img/extended_SeDJoCo.jpg) |
 |:--:|
-| Illustration of SeDJoCo as a tensor decomposition or, equivalently, as a joint matrix transformation. The SeDJoCo transformation is a particular case of the extended problem with a single dataset. |
+| Illustration of an example for an extedned SeDJoCo transformation. |
 
-The extended “Sequentially Drilled” Joint Congruence (SeDJoCo) Transformation is a special joint matrix transformation (illustrated above), reminiscent of (but different from) classical joint diagonalization. Interestingly, it turns out that the Maximum Likelihood (ML) solution for the Independent Vector Analysis (IVA) problem with a Gaussian model takes the form of an extended SeDJoCo problem.
+The extended “Sequentially Drilled” Joint Congruence (SeDJoCo) Transformation is a special joint matrix transformation, reminiscent of (but different from) classical joint diagonalization. Interestingly, it turns out that the Maximum Likelihood (ML) solution for the Independent Vector Analysis (IVA) problem with a Gaussian model takes the form of an extended SeDJoCo problem.
 
-This package contains five files: a (readme) detailed instruction file, two functions for an iterative solution of the extended SeDJoCo problem—iterative relaxations and Newton's method— and two scripts which demonstrate these. The first script solves a generic problem, while the second one demonstrate how it is used for the computation of the ML solution for a Gaussian IVA problem.
+This package contains five files: a (readme) detailed instruction file, two functions for an iterative solution of the extended SeDJoCo problem—iterative relaxations and Newton's method— and two scripts which demonstrate their operation. The first script solves a generic problem, while the second one demonstrate how it is used for the computation of the ML solution of a Gaussian IVA problem.
 
 To download the Matlab package, {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}}click here{{% /staticref %}}.
