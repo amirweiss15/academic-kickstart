@@ -6,7 +6,7 @@ title = "Extended SeDJoCo"
 date = 2020-09-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Matlab package for the Extended “Sequentially Drilled” Joint Congruence Transformation"
+summary = "Matlab package for the extended “Sequentially Drilled” Joint Congruence (SeDJoCo) transformation"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
