@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "ML-Based MMSE Source Separation"
+title = "“Extended SeDJoCo"
 
 # Date this page was created.
 date = 2020-09-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Matlab package for ML-based MMSE separation and estimation of stationary Gaussian sources from noisy mixtures"
+summary = "Matlab package for the Extended “Sequentially Drilled” Joint Congruence Transformation"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -45,10 +45,12 @@ summary = "Matlab package for ML-based MMSE separation and estimation of station
 
 +++
 
-| ![MLMMSE_image](/img/MLMMSE_image.jpg) |
+| ![extended_SeDJoCo_image](/img/extended_SeDJoCo.jpg) |
 |:--:|
-| Simplified geometrical visualization of the optimality-gap between the estimation errors of the MMSE and the ML-based MMSE estimates. |
+| Illustration of SeDJoCo as a tensor decomposition or, equivalently, as a joint matrix transformation. The SeDJoCo transformation is a particular case of the extended problem with a single dataset. |
 
-This package contains three files: a (readme) detailed instruction file, the main function performing the ML-based MMSE separation, and a script which demonstrate this function's operation for an ICA problem with temporally-diverse stationary Gaussian sources.
+The extended “Sequentially Drilled” Joint Congruence (SeDJoCo) Transformation is a special joint matrix transformation (illustrated above), reminiscent of (but different from) classical joint diagonalization. Interestingly, it turns out that the Maximum Likelihood (ML) solution for the Independent Vector Analysis (IVA) problem with a Gaussian model takes the form of an extended SeDJoCo problem.
 
-To download the Matlab package, {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}click here{{% /staticref %}}.
+This package contains five files: a (readme) detailed instruction file, two functions for an iterative solution of the extended SeDJoCo problem—iterative relaxations and Newton's method— and two scripts which demonstrate these. The first script solves a generic problem, while the second one demonstrate how it is used for the computation of the ML solution for a Gaussian IVA problem.
+
+To download the Matlab package, {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}}click here{{% /staticref %}}.
