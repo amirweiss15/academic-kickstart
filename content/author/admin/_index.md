@@ -3,7 +3,7 @@
 name = "Amir Weiss"
 
 # Is this the primary user of the site?
-superuser = true
+# superuser = true
 
 # Role/position
 role = "Postdoctoral Fellow"
