@@ -51,13 +51,14 @@ summary = "Matlab package for the extended “Sequentially Drilled” Joint Cong
 
 The extended “Sequentially Drilled” Joint Congruence (SeDJoCo) transformation is a special joint matrix transformation, reminiscent of (but different from) classical joint diagonalization. Interestingly, it turns out that the Maximum Likelihood (ML) solution for the Independent Vector Analysis (IVA) problem with a Gaussian model takes the form of an extended SeDJoCo problem.
 
-This package contains five files: a (readme) detailed instruction file, two functions for an iterative solution of the extended SeDJoCo problem—iterative relaxations and Newton's method—and two scripts which demonstrate their operation. The first script solves a generic problem, while the second one demonstrate how it is used for the computation of the ML solution of a Gaussian IVA problem. For more details, see [1].
+This package contains five files: a (readme) detailed instruction file, two functions for an iterative solution of the extended SeDJoCo problem—iterative relaxations and Newton's method—and two scripts which demonstrate their operation. The first script solves a generic problem, while the second one demonstrates how it is used for computation of the ML solution of a Gaussian IVA problem. For more details, see [1].
 
 To download the Matlab package, {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}}click here{{% /staticref %}}.
 
+
 ## **Related Papers** ##
 
-[1] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}} Matlab Package{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
+[1] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
 
 [2] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
 

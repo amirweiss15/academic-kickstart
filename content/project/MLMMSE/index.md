@@ -52,3 +52,10 @@ summary = "Matlab package for ML-based MMSE separation and estimation of station
 This package contains three files: a (readme) detailed instruction file, the main function performing the ML-based MMSE separation, and a script which demonstrate this function's operation for an ICA problem with temporally-diverse stationary Gaussian sources.
 
 To download the Matlab package, {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}click here{{% /staticref %}}.
+
+
+## **Related Papers** ##
+
+[1] **Weiss, A.** and Yeredor, A., “[A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures](https://ieeexplore.ieee.org/document/8772216)”, _IEEE Transactions on Signal Processing_, vol. 67, no. 19, pp. 5032-5045, Oct. 2019. [arXiv](https://arxiv.org/pdf/1810.09165.pdf)
+
+[2] **Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Recovery of Gaussian Sources from Noisy Stationary Mixtures: The Least-Noisy Maximally-Separating Solution](https://ieeexplore.ieee.org/document/8682761)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5466--5470, May 2019.
