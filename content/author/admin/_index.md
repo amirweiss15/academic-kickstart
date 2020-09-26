@@ -13,7 +13,7 @@ role = "Postdoctoral Fellow"
 organizations = [ { name = "Weizmann Institute of Science", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
+# bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "amirweiss15@gmail.com"
