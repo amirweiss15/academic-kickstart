@@ -22,6 +22,6 @@ weight = 50
 
 • 2013-2019 — Teaching assistant in the course “Introduction to Statistical Signal Processing”, an undergraduate and graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
 
-• 2016 — Teaching assistant in the course “Introduction to Signal Processing””, an undergraduate course in Biomedical Engineering, Faculty of Engineering, Tel-Aviv University.
+• 2016 — Teaching assistant in the course “Introduction to Signal Processing”, an undergraduate course in Biomedical Engineering, Faculty of Engineering, Tel-Aviv University.
 
 • 2014 — Teaching assistant in the course “Estimation Theory”, a graduate-level course in Electrical Engineering, Faculty of Engineering, Tel-Aviv University.
