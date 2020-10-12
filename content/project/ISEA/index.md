@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Symbol Recovery for Optical OFDM"
+title = "Symbol Recovery for Optical DC-biased OFDM"
 
 # Date this page was created.
 date = 2020-08-26T00:00:00
