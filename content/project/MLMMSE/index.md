@@ -49,7 +49,7 @@ summary = "Matlab package for ML-based MMSE separation and estimation of station
 |:--:|
 | Simplified geometrical visualization of the optimality-gap between the estimation errors of the MMSE and the ML-based MMSE estimates. |
 
-This package contains three files: a (readme) detailed instruction file, the main function performing the ML-based MMSE separation, and a script which demonstrate this function's operation for an ICA problem with temporally-diverse stationary Gaussian sources.
+This package contains three files: a (readme) detailed instruction file, the main function for the ML-based MMSE separation, and a script which demonstrates this function's operation for an ICA problem with temporally-diverse stationary Gaussian sources.
 
 To download the Matlab package, {{% staticref "files/MATLAB_MLMMSE.zip" "newtab" %}}click here{{% /staticref %}}.
 
