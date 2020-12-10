@@ -40,6 +40,8 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
+•	**Weiss, A.**, “Blind Direction-of-Arrival Estimation in Acoustic Vector-Sensor Arrays via Tensor Decomposition and Kullback-Leibler Divergence Covariance Fitting”, Accepted for publication in _IEEE Trans. on Signal Processing_, Dec. 2020. [arXiv](https://arxiv.org/pdf/2005.08318.pdf)
+
 •	**Weiss, A.** and Yeredor, A., “[Asymptotically Optimal Blind Calibration of Uniform Linear Sensor Arrays for Narrowband Gaussian Signals](https://ieeexplore.ieee.org/document/9161287)”, _IEEE Trans. on Signal Processing_, vol. 68, pp. 5322-5333, Aug. 2020. [arXiv](https://arxiv.org/pdf/2008.13091.pdf)
 
 •	**Weiss, A.** and Yeredor, A., “[A Maximum Likelihood-Based Minimum Mean Square Error Separation and Estimation of Stationary Gaussian Sources from Noisy Mixtures](https://ieeexplore.ieee.org/document/8772216)”, _IEEE Trans. on Signal Processing_, vol. 67, no. 19, pp. 5032-5045, Oct. 2019.
