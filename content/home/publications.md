@@ -60,6 +60,10 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	**Weiss, A.** and Yeredor, A., “Non-Iterative Blind Calibration of Nested Arrays with Asymptotically Optimal Weighting”, Accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2021. [arXiv](https://arxiv.org/pdf/2010.14799.pdf)
+
+•	**Weiss, A.** and Yeredor, A., “Enhanced Blind Calibration of Uniform Linear Arrays with One-Bit Quantization by Kullback-Leibler Divergence Covariance Fitting”, Accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2021. [arXiv](https://arxiv.org/pdf/2010.14803.pdf)
+
 •	**Weiss, A.** and Yeredor, A., “[Exact Algebraic Blind Source Separation Using Side Information](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001941.pdf)”, in _Proc. of the 28th European Signal Processing Conference (EUSIPCO 2020)_, pp. 1941--1945, Aug. 2020.
 
 •	**Weiss, A.**, Nadler, B. and Yeredor, A., “[Asymptotically Optimal Blind Calibration of Acoustic Vector Sensor Uniform Linear Arrays](https://ieeexplore.ieee.org/document/9053241)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4677--4681, May 2020.
