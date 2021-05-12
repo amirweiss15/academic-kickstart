@@ -60,6 +60,8 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	**Weiss, A.** and Wornell G. W., “One-Bit Direct Position Determination of Narrowband Gaussian Signals”, Accepted for publication in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, May 2021.
+
 •	**Weiss, A.** and Yeredor, A., “Non-Iterative Blind Calibration of Nested Arrays with Asymptotically Optimal Weighting”, Accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2021. [arXiv](https://arxiv.org/pdf/2010.14799.pdf)
 
 •	**Weiss, A.** and Yeredor, A., “Enhanced Blind Calibration of Uniform Linear Arrays with One-Bit Quantization by Kullback-Leibler Divergence Covariance Fitting”, Accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2021. [arXiv](https://arxiv.org/pdf/2010.14803.pdf)
