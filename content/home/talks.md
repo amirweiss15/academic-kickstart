@@ -23,6 +23,10 @@ list_format = 2
 exclude_featured = false
 +++
 <DIV align="justify">
+•	**Weiss, A., “Statistically Enhanced Array Processing: Exploiting Low-Dimensional Structures and “Hidden” Second-Order Statistics”**
+
+* Invited talk (virtual) for the Acoustic Signal Processing and Systems Branch, US Naval Research Laboratory, USA, May 2021.
+
 •	**Weiss, A., “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”**
 
 * at the Department of Electrical Engineering and Computer Science Seminar, University of Michigan, Ann Arbor, MI, USA, December 2019. [[Video available](http://leccap.engin.umich.edu/leccap/viewer/r/eyGrsl), courtesy of UM ECE]
