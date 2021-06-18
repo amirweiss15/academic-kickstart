@@ -14,6 +14,8 @@ subtitle = ""
 weight = 60
 
 +++
+• 2021 — The 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021) Outstanding Paper Award.
+
 • 2020 — The Yitzhak and Chaya Weinstein Research Institute for Signal Processing award for scientific paper publication.
 
 • 2019 — The European Association for Signal Processing (EURASIP) travel grant to the 27th European Signal Processing Conference (EUSIPCO 2019, on a competitive basis).
