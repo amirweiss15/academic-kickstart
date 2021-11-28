@@ -40,6 +40,8 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
+•	**Weiss, A.** and Nadler, B., ““Self-Wiener” Filtering: Data-Driven Deconvolution of Deterministic Signals”, accepted for publication in _IEEE Trans. on Signal Processing_, Nov. 2021. [arXiv](https://arxiv.org/pdf/2005.08318.pdf)
+
 •	Salomon, D., **Weiss, A.** and Levi, I., “[Improved Filtering Techniques for Single- and Multi-Trace Side-Channel Analysis](https://www.mdpi.com/2410-387X/5/3/24)”, _Cryptography_, vol. 5, no. 3, Sep. 2021.
 
 •	**Weiss, A.**, “[Blind Direction-of-Arrival Estimation in Acoustic Vector-Sensor Arrays via Tensor Decomposition and Kullback-Leibler Divergence Covariance Fitting](https://ieeexplore.ieee.org/document/9293153)”, _IEEE Trans. on Signal Processing_, vol. 69, pp. 531--545, Dec. 2020. [arXiv](https://arxiv.org/pdf/2005.08318.pdf)
