@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.** and Nadler, B., ““Self-Wiener” Filtering: Data-Driven Deconvolution of Deterministic Signals”, accepted for publication in _IEEE Trans. on Signal Processing_, Nov. 2021. [arXiv](https://arxiv.org/pdf/2007.10164.pdf)
+•	**Weiss, A.** and Nadler, B., “[“Self-Wiener” Filtering: Data-Driven Deconvolution of Deterministic Signals](https://ieeexplore.ieee.org/document/9648019)”, accepted for publication in _IEEE Trans. on Signal Processing_, Nov. 2021. [arXiv](https://arxiv.org/pdf/2007.10164.pdf)
 
 •	Salomon, D., **Weiss, A.** and Levi, I., “[Improved Filtering Techniques for Single- and Multi-Trace Side-Channel Analysis](https://www.mdpi.com/2410-387X/5/3/24)”, _Cryptography_, vol. 5, no. 3, Sep. 2021.
 
