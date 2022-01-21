@@ -151,9 +151,13 @@ figcaption {
 
 figcaption.numbered:before {
   font-weight: 700;
-  text-transform: uppercase;
   content: attr(data-pre) counter(captions) attr(data-post);
 }
+/*figcaption.numbered:before {
+  font-weight: 700;
+  text-transform: uppercase;
+  content: attr(data-pre) counter(captions) attr(data-post);
+}*/
 
 figcaption.numbered {
   counter-increment: captions;
