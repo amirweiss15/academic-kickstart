@@ -6,7 +6,7 @@ title = "Asymptotically Optimal Blind Calibration"
 date = 2022-01-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Matlab package for asymptotically optimal blind calibration of uniform linear sensor arrays for narrowband Gaussian signals"
+summary = "Matlab package for blind calibration of uniform linear sensor arrays for narrowband signals"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
