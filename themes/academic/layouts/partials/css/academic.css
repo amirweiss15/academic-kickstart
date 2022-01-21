@@ -1241,8 +1241,13 @@ article .article-metadata {
   font-size: 0.80rem;
   font-weight: 700;
   line-height: 1.5;
-  text-transform: uppercase;
 }
+/*.course h6 {
+  font-size: 0.80rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+}*/
 
 .course h6 a {
   border-bottom: solid 1px transparent;
@@ -1299,8 +1304,13 @@ article .article-metadata {
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.5;
-  text-transform: uppercase;
 }
+/*.card h4 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+}*/
 
 .card h4 a {
   color: #000;
