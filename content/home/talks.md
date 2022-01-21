@@ -19,7 +19,7 @@ count = 10
 #   2 = Stream
 list_format = 2
 
-# Exclude talks that are shown in the Featured Talks widget? 
+# Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
 +++
 <DIV align="justify">
