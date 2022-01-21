@@ -467,8 +467,13 @@ a[data-fancybox] img {
   color: #767676;
   font-weight: 900;
   line-height: 2;
-  text-transform: uppercase;
 }
+/*.post-nav-item .meta-nav {
+  color: #767676;
+  font-weight: 900;
+  line-height: 2;
+  text-transform: uppercase;
+}*/
 
 .dark .post-nav-item a {
   color: #ddd;
