@@ -64,7 +64,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “Blind Modulo Analog-to-Digital Conversion of Vector Processes”, Accepted to _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
+•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “Blind Modulo Analog-to-Digital Conversion of Vector Processes”, accepted for publication in _IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
 
 •	**Weiss, A.** and Wornell G. W., “[One-Bit Direct Position Determination of Narrowband Gaussian Signals](https://ieeexplore.ieee.org/abstract/document/9513768)”, in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 466--470, July 2021. [arXiv](https://arxiv.org/abs/2010.15640)
 
