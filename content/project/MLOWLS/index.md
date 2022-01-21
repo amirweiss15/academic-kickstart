@@ -45,9 +45,9 @@ summary = "Matlab package for asymptotically optimal blind calibration of unifor
 
 +++
 
-| ![MLOWLS_image](/img/MLOWLS_image.jpg) |
-|:--:|
-| Simplified geometrical visualization of the optimality-gap between the estimation errors of the MMSE and the ML-based MMSE estimates. |
+#| ![MLOWLS_image](/img/MLOWLS_image.jpg) |
+#|:--:|
+#| Simplified geometrical visualization of the optimality-gap between the estimation errors of the MMSE and the ML-based MMSE estimates. |
 
 This package contains the implementation of the blind calibration method of uniform linear arrays presented in [1]. The method is asymptotically optimal for Gaussian sources, but provides enhanced calibration even for non-Gaussian signals, by further exploiting the information contained in the second-order statistics of the measured signals. The method is “almost” linear, in the sense that except for application of simple, elementwise nonlinear operations, the estimates are computed by solving a system of linear equations.
 
