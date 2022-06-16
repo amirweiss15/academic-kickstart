@@ -66,7 +66,11 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “[Blind Modulo Analog-to-Digital Conversion of Vector Processes](https://ieeexplore.ieee.org/document/9746933)”, accepted for publication in _IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
+•	**Weiss, A.**, Arikan, T., and Wornell G. W., “Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
+
+•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y., and Wornell G. W., “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
+
+•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “[Blind Modulo Analog-to-Digital Conversion of Vector Processes](https://ieeexplore.ieee.org/document/9746933)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
 
 •	**Weiss, A.** and Wornell G. W., “[One-Bit Direct Position Determination of Narrowband Gaussian Signals](https://ieeexplore.ieee.org/abstract/document/9513768)”, in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 466--470, July 2021. [arXiv](https://arxiv.org/abs/2010.15640)
 
