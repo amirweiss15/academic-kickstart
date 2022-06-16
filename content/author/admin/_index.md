@@ -24,6 +24,7 @@ interests = [
   "Digital Signal Processing",
   "Array Processing",
   "Detection and Estimation Theory",
+  "Machine Learning",
   "Statistical Inference",
   "Blind Source Separation",
   "Blind Calibration"
