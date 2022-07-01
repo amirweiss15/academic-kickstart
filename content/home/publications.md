@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
+•	**Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 3090--3106, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
 
 •	**Weiss, A.** and Nadler, B., “[“Self-Wiener” Filtering: Data-Driven Deconvolution of Deterministic Signals](https://ieeexplore.ieee.org/document/9648019)”,  _IEEE Trans. on Signal Processing_, vol. 70, pp. 468--481, Dec. 2021. [arXiv](https://arxiv.org/pdf/2007.10164.pdf)
 
@@ -70,7 +70,7 @@ exclude_featured = false
 
 •	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y., and Wornell G. W., “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
 
-•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “[Blind Modulo Analog-to-Digital Conversion of Vector Processes](https://ieeexplore.ieee.org/document/9746933)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Jan. 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
+•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “[Blind Modulo Analog-to-Digital Conversion of Vector Processes](https://ieeexplore.ieee.org/document/9746933)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5617--5621, May 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
 
 •	**Weiss, A.** and Wornell G. W., “[One-Bit Direct Position Determination of Narrowband Gaussian Signals](https://ieeexplore.ieee.org/abstract/document/9513768)”, in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 466--470, July 2021. [arXiv](https://arxiv.org/abs/2010.15640)
 
