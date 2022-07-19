@@ -68,6 +68,8 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W., and Deane, G., “Online Segmented Recursive Least-Squares for Multipath Doppler Tracking”, accepted for publication in _Proc. of Underwater Commun. Netw._, June 2022.
+
 •	**Weiss, A.**, Arikan, T., and Wornell G. W., “Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
 
 •	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y., and Wornell G. W., “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
