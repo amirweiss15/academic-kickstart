@@ -58,8 +58,8 @@ To download the Matlab package, {{% staticref "files/MATLAB_Extended_SeDJoCo.zip
 
 ## **Related Papers** ##
 
-[1] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Transactions on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
+[1] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Trans. on Signal Processing_, vol. 65, no. 23, pp. 1-13, Dec. 2017. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
 
-[2] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Transactions on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
+[2] **Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Trans. on Signal Processing_, vol. 66, no. 19, pp. 5000-5013, Sept. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
 
 [3] Cheng, Y., Yeredor, A., **Weiss, A.** and Haardt, M., “[Extension of the “Sequentially Drilled” Joint Congruence Transformation (SeDJoCo) Problem](https://ieeexplore.ieee.org/document/7383767)”, in _Proc. of IEEE 6th Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_, pp. 185--188, Dec. 2015.
