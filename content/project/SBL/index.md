@@ -37,13 +37,17 @@ summary = "Matlab package for semi-blind localization of underwater acoustic sou
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = " A 2-dimensional illustration of the three-ray model. When the surface and bottom are approximately flat in the operational area, this model enables non line-of-sight (LOS) based localization in the potential absence of the LOS signal component, e.g., due to an occluder"
+  caption = "A 2-dimensional illustration of the three-ray model. When the surface and bottom are approximately flat in the operational area, this model enables non line-of-sight (LOS) based localization in the potential absence of the LOS signal component, e.g., due to an occluder"
   preview_only = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   # focal_point = "Center"
 
 +++
+
+| ![SBL_image](/img/SBL_image.png) |
+|:--:|
+| A 2-dimensional illustration of the three-ray model. When the surface and bottom are approximately flat in the operational area, this model enables non line-of-sight (LOS) based localization in the potential absence of the LOS signal component, e.g., due to an occluder. |
 
 This package contains a MATLAB code implementation of the localization method and the computation of the performance bound presented in [1].
 
