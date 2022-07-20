@@ -37,7 +37,7 @@ summary = "Supplementary material (including code) for direct localization in un
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Architecture of the proposed deep neural network for data-driven direct localization. The model is comprised of three sub-models, which are initially trained individually to estimate range, azimuth and inclination."
+  caption = "Architecture of the proposed deep neural network for data-driven direct localization in underwater acoustics. The model is comprised of three sub-models, which are initially trained individually to estimate range, azimuth and inclination."
   preview_only = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
