@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Underwater Acoustics Localization"
+title = "Underwater Acoustic Localization"
 
 # Date this page was created.
 date = 2022-07-20T00:00:00
