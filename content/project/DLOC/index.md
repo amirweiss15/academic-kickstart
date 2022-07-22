@@ -56,6 +56,6 @@ To download the package, {{% staticref "files/DLOC_supp_mat.zip" "newtab" %}}cli
 
 ## **Related Papers** ##
 
-[1] **Weiss, A.**, Arikan, T., and Wornell G. W., “Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022.
+[1] **Weiss, A.**, Arikan, T., and Wornell G. W., “Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022. [arXiv](https://arxiv.org/pdf/2207.10222.pdf)
 
 [2] **Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 3090--3106, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
