@@ -76,13 +76,14 @@ exclude_featured = false
 
 •	**Weiss, A.**, Arikan, T. and Wornell G. W., “Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022. {{% staticref "files/DLOC_supp_mat.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2207.10222.pdf)
 
-•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell G. W., “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022. [Github repository](https://github.com/RFChallenge/SCSS_CSGaussian). [arXiv](https://arxiv.org/pdf/2208.10325.pdf)
+•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell G. W., “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation”, accepted for publication in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, June 2022. [Github repository](https://github.com/RFChallenge/SCSS_CSGaussian). [arXiv](https://arxiv.org/pdf/2208.10325.pdf)\
+**Best Student Paper Award.**
 
 •	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell G. W., “[Blind Modulo Analog-to-Digital Conversion of Vector Processes](https://ieeexplore.ieee.org/document/9746933)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 5617--5621, May 2022. [arXiv](https://arxiv.org/pdf/2110.06183.pdf)
 
 •	**Weiss, A.** and Wornell G. W., “[One-Bit Direct Position Determination of Narrowband Gaussian Signals](https://ieeexplore.ieee.org/abstract/document/9513768)”, in _Proc. of IEEE Workshop on Statistical Signal Processing (SSP)_, pp. 466--470, July 2021. {{% staticref "files/OneBit_DPD_matlab_code.zip" "newtab" %}} Matlab Code{{% /staticref %}}. [arXiv](https://arxiv.org/abs/2010.15640)
 
-•	**Weiss, A.** and Yeredor, A., “[Non-Iterative Blind Calibration of Nested Arrays with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/document/9415037)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4630--4634, June 2021. [arXiv](https://arxiv.org/pdf/2010.14799.pdf).\
+•	**Weiss, A.** and Yeredor, A., “[Non-Iterative Blind Calibration of Nested Arrays with Asymptotically Optimal Weighting](https://ieeexplore.ieee.org/document/9415037)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4630--4634, June 2021. [arXiv](https://arxiv.org/pdf/2010.14799.pdf)\
 **Recipient of the 2021 ICASSP Outstanding Paper Award.**
 
 •	**Weiss, A.** and Yeredor, A., “[Enhanced Blind Calibration of Uniform Linear Arrays with One-Bit Quantization by Kullback-Leibler Divergence Covariance Fitting](https://ieeexplore.ieee.org/document/9413647)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 4625--4629, June 2021. [arXiv](https://arxiv.org/pdf/2010.14803.pdf)
