@@ -47,7 +47,7 @@ summary = "Supplementary material (including code) for direct localization in un
 
 | ![DLOC_image](/img/CNN_localization_image.png) |
 |:--:|
-| Architecture of the proposed deep neural network for data-driven direct localization. The model is comprised of three sub-models, which are initially trained individually to estimate range, azimuth and inclination.A |
+| Architecture of the proposed deep neural network for data-driven direct localization. The model is comprised of three sub-models, which are initially trained individually to estimate range, azimuth and inclination. |
 
 This package contains the supplementary material for [1].
 
