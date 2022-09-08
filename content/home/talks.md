@@ -23,6 +23,10 @@ list_format = 2
 exclude_featured = false
 +++
 <DIV align="justify">
+•	**Weiss, A., “Towards Data-Driven Underwater Acoustic Localization”**
+
+* at the Applied Ocean Physics & Engineering Department (Hybrid) Seminar at Woods Hole Oceanographic Institution, Falmouth, MA, USA, September 2022.
+
 •	**Weiss, A., “Statistically Enhanced Array Processing: Exploiting Low-Dimensional Structures and “Hidden” Second-Order Statistics”**
 
 * Invited talk (virtual) for the Acoustic Signal Processing and Systems Branch, US Naval Research Laboratory, Washington, D.C., USA, May 2021.
