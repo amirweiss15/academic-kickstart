@@ -70,7 +70,7 @@ exclude_featured = false
 
 •	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell G. W., “Can Shadows Reveal Biometric Information?”, accepted for publication in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, August 2022.
 
-•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell G. W., “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals”, accepted for publication in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, August 2022.
+•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell G. W., “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals”, accepted for publication in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, August 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
 •	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “Online Segmented Recursive Least-Squares for Multipath Doppler Tracking”, accepted for publication in _Proc. of Underwater Communications and Networking_, June 2022.
 
