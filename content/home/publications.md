@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, Early Access, August 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
+•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, Early Access, Aug. 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
 
 •	**Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell,, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 3090--3106, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
 
@@ -57,9 +57,9 @@ exclude_featured = false
 
 •	**Weiss, A.** and Yeredor, A., “[Blind Determination of the Number of Sources Using Distance Correlation](https://ieeexplore.ieee.org/document/8653964)”, _IEEE Signal Processing Letters_,  vol. 26, no. 6, pp. 828--832, June 2019. [arXiv](https://arxiv.org/pdf/2008.13096.pdf)
 
-•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Trans. on Signal Processing_, vol. 66, no. 19, pp. 5000--5013, Sept. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
+•	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[Performance Analysis of the Gaussian Quasi-Maximum Likelihood Approach for Independent Vector Analysis](https://ieeexplore.ieee.org/document/8426038)”, _IEEE Trans. on Signal Processing_, vol. 66, no. 19, pp. 5000--5013, Sep. 2018. [arXiv](https://arxiv.org/pdf/2008.13189.pdf)
 
-•	Yeredor, A., **Weiss, A.** and Weiss, A.J., “[High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models](https://ieeexplore.ieee.org/document/8423486)”, _IEEE Trans. on Signal Processing_, vol. 66, no. 18, pp. 4782--4795, Sept. 2018.
+•	Yeredor, A., **Weiss, A.** and Weiss, A.J., “[High-Order Analysis of the Efficiency Gap for Maximum Likelihood Estimation in Nonlinear Gaussian Models](https://ieeexplore.ieee.org/document/8423486)”, _IEEE Trans. on Signal Processing_, vol. 66, no. 18, pp. 4782--4795, Sep. 2018.
 
 •	**Weiss, A.**, Yeredor, A., Cheema, S. A. and Haardt, M., “[The Extended “Sequentially Drilled” Joint Congruence Transformation and its Application in Gaussian Independent Vector Analysis](https://ieeexplore.ieee.org/document/8027076)”, _IEEE Trans. on Signal Processing_, vol. 65, no. 23, pp. 6332--6344, Dec. 2017. {{% staticref "files/MATLAB_Extended_SeDJoCo.zip" "newtab" %}} Matlab Package{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2008.13199.pdf)
 
@@ -68,9 +68,9 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “Can Shadows Reveal Biometric Information?”, accepted for publication in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, August 2022.
+•	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “Can Shadows Reveal Biometric Information?”, accepted for publication in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, Aug. 2022.
 
-•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals”, accepted for publication in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, August 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
+•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals”, accepted for publication in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, Aug. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
 •	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “Online Segmented Recursive Least-Squares for Multipath Doppler Tracking”, accepted for publication in _Proc. of Underwater Communications and Networking_, June 2022.
 
