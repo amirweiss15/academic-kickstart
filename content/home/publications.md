@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, Early Access, Aug. 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
+•	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 4586--4601, Aug. 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
 
 •	**Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell,, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 3090--3106, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
 
