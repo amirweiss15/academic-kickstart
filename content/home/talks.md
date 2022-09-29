@@ -24,7 +24,7 @@ exclude_featured = false
 +++
 <DIV align="justify">
 •	**Weiss, A., “Towards Data-Driven Underwater Acoustic Localization”**
-
+* Invited talk at the Wireless Internet of Things (Hybrid) Seminar at Northeastern University, Boston, MA, USA, September 2022.
 * at the Applied Ocean Physics & Engineering Department (Hybrid) Seminar at Woods Hole Oceanographic Institution, Falmouth, MA, USA, September 2022.
 
 •	**Weiss, A., “Statistically Enhanced Array Processing: Exploiting Low-Dimensional Structures and “Hidden” Second-Order Statistics”**
