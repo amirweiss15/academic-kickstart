@@ -40,7 +40,7 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “An Architecture for Passive Joint Localization and Structure Learning in Reverberant Environments”, accepted for publication in _The Journal of the Acoustical Society of America_, January 2023.
+•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “An Architecture for Passive Joint Localization and Structure Learning in Reverberant Environments”, accepted for publication in _The Journal of the Acoustical Society of America_, Jan. 2023.
 
 •	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 4586--4601, Aug. 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
 
@@ -70,7 +70,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “Can Shadows Reveal Biometric Information?”, accepted for publication in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, Aug. 2022. [arXiv](https://arxiv.org/pdf/2209.10077.pdf)
+•	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “[Can Shadows Reveal Biometric Information?](https://openaccess.thecvf.com/content/WACV2023/papers/Medin_Can_Shadows_Reveal_Biometric_Information_WACV_2023_paper.pdf)”, in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, pp. 869--879, Jan. 2023. [arXiv](https://arxiv.org/pdf/2209.10077.pdf)
 
 •	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals”, accepted for publication in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, Aug. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
