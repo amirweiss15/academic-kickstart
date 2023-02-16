@@ -70,6 +70,12 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+
+•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+
+•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+
 •	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “[Can Shadows Reveal Biometric Information?](https://openaccess.thecvf.com/content/WACV2023/papers/Medin_Can_Shadows_Reveal_Biometric_Information_WACV_2023_paper.pdf)”, in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, pp. 869--879, Jan. 2023. [arXiv](https://arxiv.org/pdf/2209.10077.pdf)
 
 •	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
