@@ -70,6 +70,8 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, Apr. 2023.
+
 •	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
 
 •	Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
