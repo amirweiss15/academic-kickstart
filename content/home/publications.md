@@ -72,11 +72,11 @@ exclude_featured = false
 
 •	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, Apr. 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
 
-•	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+•	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “[Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch](https://ieeexplore.ieee.org/abstract/document/10094981)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
 
-•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+•	Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “[On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals](https://ieeexplore.ieee.org/document/10096702)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023. [arXiv](https://arxiv.org/pdf/2303.06438.pdf)
 
-•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
+•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network](https://ieeexplore.ieee.org/document/10094978)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.
 
 •	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “[Can Shadows Reveal Biometric Information?](https://openaccess.thecvf.com/content/WACV2023/papers/Medin_Can_Shadows_Reveal_Biometric_Information_WACV_2023_paper.pdf)”, in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, pp. 869--879, Jan. 2023. [arXiv](https://arxiv.org/pdf/2209.10077.pdf)
 
