@@ -72,7 +72,7 @@ exclude_featured = false
 
 •	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, Apr. 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
 
-•	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “[Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch](https://ieeexplore.ieee.org/abstract/document/10094981)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023. [arXiv](https://arxiv.org/pdf/2305.17920.pdf)
+•	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “[Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch](https://ieeexplore.ieee.org/abstract/document/10094981)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023.  {{% staticref "files/DLOC_supp_mat_ICASSP2023.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2305.17920.pdf)
 
 •	Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “[On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals](https://ieeexplore.ieee.org/document/10096702)”, accepted for publication in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, Feb. 2023. [arXiv](https://arxiv.org/pdf/2303.06438.pdf)
 
@@ -84,7 +84,7 @@ exclude_featured = false
 
 •	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “[Online Segmented Recursive Least-Squares for Multipath Doppler Tracking](https://ieeexplore.ieee.org/document/9905690)”, in _Proc. of the 6th Underwater Communications and Networking (UComms)_, Aug. 2022.
 
-•	**Weiss, A.**, Arikan, T. and Wornell, G. W., “[Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach](https://ieeexplore.ieee.org/document/9943512)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. {{% staticref "files/DLOC_supp_mat.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2207.10222.pdf)
+•	**Weiss, A.**, Arikan, T. and Wornell, G. W., “[Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach](https://ieeexplore.ieee.org/document/9943512)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. {{% staticref "files/DLOC_supp_mat_MLSP2022.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2207.10222.pdf)
 
 •	Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation](https://ieeexplore.ieee.org/document/9943311)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. [Github repository](https://github.com/RFChallenge/SCSS_CSGaussian). [arXiv](https://arxiv.org/pdf/2208.10325.pdf)\
 **Best Student Paper Award.**
