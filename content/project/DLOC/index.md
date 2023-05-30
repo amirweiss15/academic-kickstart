@@ -51,9 +51,9 @@ summary = "Supplementary material (including code) for direct localization in un
 
 This page contains relevant materials for the data-driven direct localization project.
 
-To download the supplementary material package of [1], {{% staticref "files/DLOC_supp_mat.zip" "newtab" %}}click here{{% /staticref %}}.
+To download the supplementary material package of [1], {{% staticref "files/DLOC_supp_mat_MLSP2022.zip" "newtab" %}}click here{{% /staticref %}}.
 
-The supplementary material package of [2] will be available soon.
+To download the supplementary material package of [2], {{% staticref "files/DLOC_supp_mat_ICASSP2023.zip" "newtab" %}}click here{{% /staticref %}}.
 
 
 ## **Related Papers** ##
