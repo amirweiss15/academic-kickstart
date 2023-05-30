@@ -23,6 +23,10 @@ list_format = 2
 exclude_featured = false
 +++
 <DIV align="justify">
+•	**Weiss, A., “On Data-Driven Underwater Acoustic Direct Localization: Design Considerations of a DNN Based Solution”**
+
+* Invited talk at the 184th Meeting of the Acoustical Society of America, Chicago, IL, May 2023.
+
 •	**Weiss, A., “Towards Data-Driven Underwater Acoustic Localization”**
 
 * Invited talk at the Wireless Internet of Things (Hybrid) Seminar at Northeastern University, Boston, MA, USA, September 2022.
