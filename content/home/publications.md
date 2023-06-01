@@ -82,7 +82,7 @@ exclude_featured = false
 
 •	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
-•	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “[Online Segmented Recursive Least-Squares for Multipath Doppler Tracking](https://ieeexplore.ieee.org/document/9905690)”, in _Proc. of the 6th Underwater Communications and Networking (UComms)_, Aug. 2022.
+•	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “[Online Segmented Recursive Least-Squares for Multipath Doppler Tracking](https://ieeexplore.ieee.org/document/9905690)”, in _Proc. of the 6th Underwater Communications and Networking (UComms)_, Aug. 2022. [arXiv](https://arxiv.org/pdf/2305.19127.pdf)
 
 •	**Weiss, A.**, Arikan, T. and Wornell, G. W., “[Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach](https://ieeexplore.ieee.org/document/9943512)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. {{% staticref "files/DLOC_supp_mat_MLSP2022.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2207.10222.pdf)
 
