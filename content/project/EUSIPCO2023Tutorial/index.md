@@ -5,7 +5,6 @@ menu = ""
 
 # Date this page was created.
 date = 2023-09-06T00:00:00
-draft = true
 
 # Project summary to display on homepage.
 summary = "Related materials to a tutorial given at EUSIPCO 2023, Helsinki"
