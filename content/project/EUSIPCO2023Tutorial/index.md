@@ -46,10 +46,6 @@ summary = "Related materials to a tutorial given at EUSIPCO 2023, Helsinki"
 
 +++
 
-#| ![tutorial_image](/img/title_slide.png) |
-#|:--:|
-#| Architecture of the proposed deep neural network for data-driven direct localization. The model is comprised of three sub-models, which are initially trained individually to estimate range, azimuth and inclination. |
-
 This page contains relevant materials and links related to the tutorial "Estimation, Filtering and Decoding via Deep Learning" given at EUSIPCO 2023, Helsinki, Finland. When referring to the tutorial, material from the slide deck, or the cheat sheet, please use the following reference:
 ```bibtex
 @inproceedings{eusipco2023tutorial,
