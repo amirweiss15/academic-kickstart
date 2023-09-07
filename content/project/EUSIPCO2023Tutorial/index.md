@@ -4,6 +4,7 @@ title = "Estimation, Filtering and Decoding via Deep Learning"
 
 # Date this page was created.
 date = 2023-09-06T00:00:00
+draft = true
 
 # Project summary to display on homepage.
 summary = "Related materials to a tutorial given at EUSIPCO 2023, Helsinki"
@@ -79,5 +80,4 @@ To visit the "RF Challenge" website, [click here](https://rfchallenge.mit.edu/).
 
 [5] Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
-[6] Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation](https://ieeexplore.ieee.org/document/9943311)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. [Github repository](https://github.com/RFChallenge/SCSS_CSGaussian). [arXiv](https://arxiv.org/pdf/2208.10325.pdf)\
-**Best Student Paper Award.**
+[6] Lee, G.C.F., **Weiss, A.**, Lancho, A., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation](https://ieeexplore.ieee.org/document/9943311)”, in _Proc. of IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP)_, pp. 1--6, Aug. 2022. [Github repository](https://github.com/RFChallenge/SCSS_CSGaussian). [arXiv](https://arxiv.org/pdf/2208.10325.pdf) **Best Student Paper Award.**
