@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "Estimation, Filtering and Decoding via Deep Learning"
+menu = ""
 
 # Date this page was created.
 date = 2023-09-06T00:00:00
