@@ -2,7 +2,7 @@
 # Project title.
 title = "Estimation, Filtering and Decoding via Deep Learning"
 menu = ""
-draft = true
+# draft = true
 
 # Date this page was created.
 date = 2023-09-06T00:00:00
@@ -40,7 +40,7 @@ summary = "Related materials to a tutorial given at EUSIPCO 2023, Helsinki"
 [image]
   # Caption (optional)
   # caption = "caption descripotion goes here"
-  # preview_only = true
+  preview_only = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   # focal_point = "Center"
