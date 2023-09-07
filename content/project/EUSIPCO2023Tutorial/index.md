@@ -77,7 +77,7 @@ To visit the "RF Challenge" website, [click here](https://rfchallenge.mit.edu/).
 
 [3] **Weiss, A.**, Arikan, T., Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Semi-Blind Method for Localization of Underwater Acoustic Sources](https://ieeexplore.ieee.org/document/9773981)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 3090--3106, May 2022. [arXiv](https://arxiv.org/pdf/2110.14767.pdf)
 
-[4] Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “[On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals](https://ieeexplore.ieee.org/document/10096702)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 1--5, May 2023. [arXiv](https://arxiv.org/pdf/2303.06438.pdf)
+[4] Lee, G.C.F., **Weiss, A.**, Lancho, A., Polyanskiy, Y. and Wornell, G. W., “[On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals](https://ieeexplore.ieee.org/document/10096702)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 1--5, May 2023. [Github repository](https://github.com/rfchallenge/scss_ofdmarchitecture). [arXiv](https://arxiv.org/pdf/2303.06438.pdf)
 
 [5] Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
