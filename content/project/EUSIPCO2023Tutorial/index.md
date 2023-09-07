@@ -3,7 +3,7 @@
 title = "Estimation, Filtering and Decoding via Deep Learning"
 
 # Date this page was created.
-date = 2022-07-20T00:00:00
+date = 2023-09-20T00:00:00
 
 # Project summary to display on homepage.
 summary = "Related materials to a tutorial given at EUSIPCO 2023, Helsinki"
