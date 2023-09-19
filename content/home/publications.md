@@ -72,7 +72,7 @@ exclude_featured = false
 
 •	Kari, D., Singer, A. C., Vishnu, H. and **Weiss, A.**, “[A Gradient-based optimization approach for underwater acoustic source localization](https://pubs.aip.org/asa/poma/article/51/1/022002/2911663/A-gradient-based-optimization-approach-for)”, in _Proc. of Meetings on Acoustics (POMA)_, vol. 51, no. 1, pp. 022002, May 2023.
 
-•	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, Apr. 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
+•	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “[A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch](https://ieeexplore.ieee.org/document/10206620)”, in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, pp. 2655--2660, June 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
 
 •	**Weiss, A.**, Singer, A. C. and Wornell, G. W., “[Towards Robust Data-Driven Underwater Acoustic Localization: A Deep CNN Solution with Performance Guarantees for Model Mismatch](https://ieeexplore.ieee.org/abstract/document/10094981)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 1--5, May 2023. {{% staticref "files/DLOC_supp_mat_ICASSP2023.zip" "newtab" %}}Supplementary Material{{% /staticref %}}. [arXiv](https://arxiv.org/pdf/2305.17920.pdf)
 
