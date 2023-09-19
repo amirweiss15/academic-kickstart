@@ -70,7 +70,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	Kari, D., Singer, A. C., Vishnu, H. and **Weiss, A.**, “Underwater Acoustic Localization via Gradient-Based Optimization”, accepted for publication in _Proc. of Meetings on Acoustics (POMA)_, June 2023.
+•	Kari, D., Singer, A. C., Vishnu, H. and **Weiss, A.**, “[A Gradient-based optimization approach for underwater acoustic source localization](https://pubs.aip.org/asa/poma/article/51/1/022002/2911663/A-gradient-based-optimization-approach-for)”, in _Proc. of Meetings on Acoustics (POMA)_, vol. 51, no. 1, pp. 022002, May 2023.
 
 •	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch”, accepted for publication in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, Apr. 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
 
