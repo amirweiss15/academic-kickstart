@@ -82,7 +82,7 @@ exclude_featured = false
 
 •	Medin, S., **Weiss, A.**, Durand, F., Freeman, W. and Wornell, G. W., “[Can Shadows Reveal Biometric Information?](https://openaccess.thecvf.com/content/WACV2023/papers/Medin_Can_Shadows_Reveal_Biometric_Information_WACV_2023_paper.pdf)”, in _Proc. of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, pp. 869--879, Jan. 2023. [arXiv](https://arxiv.org/pdf/2209.10077.pdf)
 
-•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
+•	Lancho, A., **Weiss, A.**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “[Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals](https://ieeexplore.ieee.org/document/10001513)”, in _Proc. of IEEE Global Communications Conference (GLOBECOM)_, pp. 2296--2302, Dec. 2022. [Github repository](https://github.com/RFChallenge/SCSS_Sync). [arXiv](https://arxiv.org/pdf/2209.04871.pdf)
 
 •	Choi, J. W., Chowdhary, G., Singer, A. C., Vishnu, H., **Weiss, A.**, Wornell, G. W. and Deane, G., “[Online Segmented Recursive Least-Squares for Multipath Doppler Tracking](https://ieeexplore.ieee.org/document/9905690)”, in _Proc. of the 6th Underwater Communications and Networking (UComms)_, Aug. 2022. [arXiv](https://arxiv.org/pdf/2305.19127.pdf)
 
