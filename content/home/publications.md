@@ -70,6 +70,8 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
+•	Jayashankar, T., Lee, G.C.F., Lancho, A., **Weiss, A.**, Polyanskiy, Y. and Wornell, G. W., “Score-based Source Separation with Applications to Digital Communication Signals”, to appear in _Proc. of Neural Information Processing Systems (NeurIPS)_, Dec. 2023. [Github repository](https://github.com/tkj516/score_based_source_separation). [arXiv](https://arxiv.org/pdf/2306.14411.pdf)
+
 •	Kari, D., Singer, A. C., Vishnu, H. and **Weiss, A.**, “[A Gradient-based Optimization Approach for Underwater Acoustic Source Localization](https://pubs.aip.org/asa/poma/article/51/1/022002/2911663/A-gradient-based-optimization-approach-for)”, in _Proc. of Meetings on Acoustics (POMA)_, vol. 51, no. 1, pp. 022002, May 2023.
 
 •	**Weiss, A.**, Lancho, A., Bu, Y. and Wornell, G. W., “[A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch](https://ieeexplore.ieee.org/document/10206620)”, in _Proc. of IEEE Int. Symposium on Information Theory (ISIT)_, pp. 2655--2660, June 2023. [arXiv](https://arxiv.org/pdf/2305.08207.pdf)
