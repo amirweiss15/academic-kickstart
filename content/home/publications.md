@@ -70,7 +70,11 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	Jayashankar, T., Lee, G.C.F., Lancho, A., **Weiss, A.**, Polyanskiy, Y. and Wornell, G. W., “Score-based Source Separation with Applications to Digital Communication Signals”, _Proc. of 37th Adv. in Neural Inform. Proc. Syst. (NeurIPS)_, Dec. 2023. [Github page](https://alpha-rgs.github.io/). [Github repository](https://github.com/tkj516/score_based_source_separation). [arXiv](https://arxiv.org/pdf/2306.14411.pdf)
+•	**Weiss, A.**, Kochman, Y. and Wornell, G. W., “[A Joint Data Compression and Time-Delay Estimation Distributed Systems via Extremum Encoding](https://ieeexplore.ieee.org/abstract/document/10446180)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 9366--9370, April 2024.
+
+•	Jayashankar, T., Kurien, B., Lancho, A., Lee, G.C.F., Polyanskiy, Y., **Weiss, A.** and Wornell, G. W., “The Data-Driven Radio Frequency Signal Separation Challenge”, to appear in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, April 2024.
+
+•	Jayashankar, T., Lee, G.C.F., Lancho, A., **Weiss, A.**, Polyanskiy, Y. and Wornell, G. W., “[Score-based Source Separation with Applications to Digital Communication Signals](https://proceedings.neurips.cc/paper_files/paper/2023/hash/106b2434b8d496c6aed9235d478678af-Abstract-Conference.html)”, _Proc. of 37th Adv. in Neural Inform. Proc. Syst. (NeurIPS)_, Dec. 2023. [Github page](https://alpha-rgs.github.io/). [Github repository](https://github.com/tkj516/score_based_source_separation). [arXiv](https://arxiv.org/pdf/2306.14411.pdf)
 
 •	Kari, D., Singer, A. C., Vishnu, H. and **Weiss, A.**, “[A Gradient-based Optimization Approach for Underwater Acoustic Source Localization](https://pubs.aip.org/asa/poma/article/51/1/022002/2911663/A-gradient-based-optimization-approach-for)”, in _Proc. of Meetings on Acoustics (POMA)_, vol. 51, no. 1, pp. 022002, May 2023.
 
