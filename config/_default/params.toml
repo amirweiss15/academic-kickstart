@@ -61,7 +61,7 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "amirwei@mit.edu"
+  email = "amir.weiss@biu.ac.il"
   # address = "Jacob Ziskind Building, Room 205, Weizmann Institute of Science, Rehovot, 7610001, Israel"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   #office_hours = """Monday 10:00 to 13:00<br>
