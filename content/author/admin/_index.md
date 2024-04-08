@@ -6,17 +6,17 @@ name = "Amir Weiss"
 # superuser = true
 
 # Role/position
-#role = "Postdoctoral Associate"
+role = "Senior Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "Massachusetts Institute of Technology", url = "" } ]
+organizations = [ { name = "Bar-Ilan University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "amirweiss15@gmail.com"
+#email = "amirweiss15@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
