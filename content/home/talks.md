@@ -23,6 +23,10 @@ list_format = 2
 exclude_featured = false
 +++
 <DIV align="justify">
+•	**Weiss, A., “AI-Enhanced RF Signal Separation”**
+
+* Invited talk at the AI Week International Conference, Tel Aviv University, Tel Aviv, Israel, June 2024.
+
 •	**Weiss, A., “On Data-Driven Underwater Acoustic Direct Localization: Design Considerations of a DNN Based Solution”**
 
 * Invited talk at the 184th Meeting of the Acoustical Society of America, Chicago, IL, May 2023.
