@@ -40,9 +40,9 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
-•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “A Deep Learning Method for Reflective Boundary Estimation”, Accepted for publication in _The Journal of the Acoustical Society of America_, May 2024.
+•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Deep Learning Method for Reflective Boundary Estimation](https://pubs.aip.org/asa/jasa/article/156/1/65/3300599/A-deep-learning-method-for-reflective-boundary)”, _The Journal of the Acoustical Society of America_, vol. 156, pp. 65--80, July 2024.
 
-•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[An Architecture for Passive Joint Localization and Structure Learning in Reverberant Environments](https://asa.scitation.org/doi/10.1121/10.0016999)”, _The Journal of the Acoustical Society of America_, pp. 665--677, Jan. 2023.
+•	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[An Architecture for Passive Joint Localization and Structure Learning in Reverberant Environments](https://asa.scitation.org/doi/10.1121/10.0016999)”, _The Journal of the Acoustical Society of America_, vol. 153, pp. 665--677, Jan. 2023.
 
 •	**Weiss, A.**, Huang, E., Ordentlich, O. and Wornell, G. W., “[Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/9855379)”, _IEEE Trans. on Signal Processing_, vol. 70, pp. 4586--4601, Aug. 2022. [arXiv](https://arxiv.org/pdf/2108.08937.pdf)
 
