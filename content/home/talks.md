@@ -25,7 +25,7 @@ exclude_featured = false
 <DIV align="justify">
 •	**Weiss, A., “AI-Enhanced RF Signal Separation”**
 
-* Invited talk at the AI Week International Conference, Tel Aviv University, Tel Aviv, Israel, June 2024.
+* Invited talk at the AI Week International Conference, Tel Aviv University, Tel Aviv, Israel, June 2024. [[Video](https://youtu.be/SwJ39kwpqD8?si=v3tM6KKRXuhyWRfF)]
 
 •	**Weiss, A., “On Data-Driven Underwater Acoustic Direct Localization: Design Considerations of a DNN Based Solution”**
 
@@ -42,7 +42,7 @@ exclude_featured = false
 
 •	**Weiss, A., “The Gaussian Maximum Likelihood Approach for Independent Component and Vector Analysis”**
 
-* at the Department of Electrical Engineering and Computer Science Seminar, University of Michigan, Ann Arbor, MI, USA, December 2019. [[Video available](http://leccap.engin.umich.edu/leccap/viewer/r/eyGrsl), courtesy of UM ECE]
+* at the Department of Electrical Engineering and Computer Science Seminar, University of Michigan, Ann Arbor, MI, USA, December 2019. [[Video](http://leccap.engin.umich.edu/leccap/viewer/r/eyGrsl), courtesy of UM ECE]
 * at the Signals, Information, and Algorithms Laboratory Seminar, Massachusetts Institute of Technology, Cambridge, MA, USA, December 2019.
 * at the School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel, July 2019 (Ph.D. Seminar).
 * at the Signal Processing and Systems Seminar at The Technion, Israel Institute of Technology, Haifa, Israel, June 2019.
