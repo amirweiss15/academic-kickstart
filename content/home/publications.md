@@ -72,7 +72,7 @@ exclude_featured = false
 
 ## **Conference Papers** ##
 
-•	**Weiss, A.**, Kochman, Y. and Wornell, G. W., “[A Joint Data Compression and Time-Delay Estimation Distributed Systems via Extremum Encoding](https://ieeexplore.ieee.org/abstract/document/10446180)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 9366--9370, April 2024. [arXiv](https://arxiv.org/pdf/2404.09244.pdf)
+•	**Weiss, A.**, Kochman, Y. and Wornell, G. W., “[A Joint Data Compression and Time-Delay Estimation Distributed Systems via Extremum Encoding](https://ieeexplore.ieee.org/abstract/document/10446180)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 9366--9370, April 2024. [arXiv](https://arxiv.org/pdf/2404.09244.pdf)\
 **Erratum:** Although Theorem is correct, the proof of Theorem 1 was incorrect. A correct proof is given {{% staticref "files/Correction_to_Proof_of_ICASSP_24_Paper.pdf" "newtab" %}}here{{% /staticref %}}.
 
 •	Jayashankar, T., Kurien, B., Lancho, A., Lee, G.C.F., Polyanskiy, Y., **Weiss, A.** and Wornell, G. W., “The Data-Driven Radio Frequency Signal Separation Challenge”, to appear in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, April 2024.
