@@ -6,7 +6,7 @@ weight = 5  # Order that this section will appear in.
 date = 2016-04-20T00:00:00
 
 <!-- title = "Biography" -->
-title = ""
+<!-- title = "" -->
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
