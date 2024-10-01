@@ -112,6 +112,7 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
+## **About me** ##
 
 I am a Senior Lecturer at the [Faculty of Engineering](https://engineering.biu.ac.il/en) at [Bar-Ilan University](https://www.biu.ac.il/en) (BIU).
 
