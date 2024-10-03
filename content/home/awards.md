@@ -14,6 +14,8 @@ subtitle = ""
 weight = 60
 
 +++
+• 2024 — Alon Scholarship for the Integration of Outstanding Faculty.
+
 • 2021 — The 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021) Outstanding Paper Award.
 
 • 2020 — The Yitzhak and Chaya Weinstein Research Institute for Signal Processing award for scientific paper publication.
