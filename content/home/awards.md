@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-• 2024 — Alon Scholarship for the Integration of Outstanding Faculty.
+• 2024 — [Alon Scholarship for the Integration of Outstanding Faculty](https://che.org.il/en/scholarships-integration-outstanding-faculty/).
 
 • 2021 — The 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021) Outstanding Paper Award.
 
