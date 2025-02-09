@@ -116,7 +116,7 @@ interests = [
 +++
 ## **About me** ##
 
-I am a Senior Lecturer at the [Faculty of Engineering](https://engineering.biu.ac.il/en) at [Bar-Ilan University](https://www.biu.ac.il/en) (BIU).
+I am a senior lecturer at the [Faculty of Engineering](https://engineering.biu.ac.il/en) at [Bar-Ilan University](https://www.biu.ac.il/en) (BIU), and the head of AI and technological innovation at Medibyt.
 
 I am interested in what I like to think of as “machine-learning-enhanced statistical signal processing”, an emerging interdisciplinary field where signal processing, machine learning, estimation theory, and some elements of information theory meet. The kinds of problems I currently focus on are related to communication systems, localization, sensing and compression. My research spans both pure theoretical aspects as well as application-driven practical problems.
 
