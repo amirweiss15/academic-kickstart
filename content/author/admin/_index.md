@@ -6,11 +6,12 @@ name = "Amir Weiss"
 # superuser = true
 
 # Role/position
-role = "Senior Lecturer"
+# role = "Senior Lecturer"
+role = "Senior Lecturer | BIU \nHead of AI & Tech Innovation"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Bar-Ilan University", url = "" } ]
+# organizations = [ { name = "Bar-Ilan University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
