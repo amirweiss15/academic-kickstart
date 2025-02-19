@@ -40,6 +40,8 @@ exclude_featured = false
 
 ## **Journal Papers** ##
 
+•	Lancho, A.<sup>†</sup>, **Weiss, A.<sup>†</sup>**, Lee, G.C.F., Tang, J., Bu, Y., Polyanskiy, Y. and Wornell, G. W., “RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge”, Accepted for publication in _IEEE Open Journal of the Communications Society_, Feb. 2025. [Github repository](https://github.com/RFChallenge/). [arXiv](https://arxiv.org/pdf/2409.08839). <sup>†</sup>Equal contribution
+
 •	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[A Deep Learning Method for Reflective Boundary Estimation](https://pubs.aip.org/asa/jasa/article/156/1/65/3300599/A-deep-learning-method-for-reflective-boundary)”, _The Journal of the Acoustical Society of America_, vol. 156, pp. 65--80, July 2024.
 
 •	Arikan, T., **Weiss, A.**, Vishnu, H., Deane, G. B., Singer, A. C. and Wornell, G. W., “[An Architecture for Passive Joint Localization and Structure Learning in Reverberant Environments](https://asa.scitation.org/doi/10.1121/10.0016999)”, _The Journal of the Acoustical Society of America_, vol. 153, pp. 665--677, Jan. 2023.
