@@ -12,7 +12,7 @@ role = "Senior Lecturer | BIU"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Bar-Ilan University", url = "" } ]
-organizations = [ { name = "Head of AI & Tech Innovation | Medibyt", url = "" } ]
+organizations = [ { name = "Head of AI & Tech Innovation | Stealth HealthTech Startup", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
@@ -116,7 +116,7 @@ interests = [
 +++
 ## **About me** ##
 
-I am a senior lecturer at the [Faculty of Engineering](https://engineering.biu.ac.il/en) at [Bar-Ilan University](https://www.biu.ac.il/en) (BIU), and the head of AI and technological innovation at Medibyt.
+I am a senior lecturer at the [Faculty of Engineering](https://engineering.biu.ac.il/en) at [Bar-Ilan University](https://www.biu.ac.il/en) (BIU), and the head of AI and technological innovation at Stealth HealthTech Startup.
 
 I am interested in what I like to think of as “machine-learning-enhanced statistical signal processing”, an emerging interdisciplinary field where signal processing, machine learning, estimation theory, and some elements of information theory meet. The kinds of problems I currently focus on are related to communication systems, localization, sensing and compression. My research spans both pure theoretical aspects as well as application-driven practical problems.
 
