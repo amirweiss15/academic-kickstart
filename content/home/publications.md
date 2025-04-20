@@ -78,6 +78,10 @@ exclude_featured = false
 
 •	**Weiss, A.**, “[Achieving Robustness in Blind Modulo Analog-to-Digital Conversion](https://ieeexplore.ieee.org/document/10888397)”, to appear in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, April 2025. [arXiv](https://arxiv.org/pdf/2412.18312)
 
+•	**Weiss, A.**, “[High-Resolution One-Bit Direct Position Determination of Narrowband Gaussian Emitters](https://ieeexplore.ieee.org/abstract/document/10942891)”, in _Proc. of 58st Asilomar Conf. on Signals, Systems, and Computers_, pp. 1745--1749, Oct. 2024.
+
+•	**Weiss, A.**, “[Computationally Efficient Direct Localization of Narrowband Radio Frequency Emitters](https://ieeexplore.ieee.org/abstract/document/10942620)”, in _Proc. of 58st Asilomar Conf. on Signals, Systems, and Computers_, pp. 1481--1485, Oct. 2024.
+
 •	**Weiss, A.**, Kochman, Y. and Wornell, G. W., “[A Joint Data Compression and Time-Delay Estimation Method for Distributed Systems via Extremum Encoding](https://ieeexplore.ieee.org/abstract/document/10446180)”, in _Proc. of IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, pp. 9366--9370, April 2024. [arXiv](https://arxiv.org/pdf/2404.09244.pdf)\
 **Erratum:** Although Theorem 1 is correct, the proof of Theorem 1 was incorrect. A correct proof is given {{% staticref "files/Correction_to_Proof_of_ICASSP_24_Paper.pdf" "newtab" %}}here{{% /staticref %}}.
 
