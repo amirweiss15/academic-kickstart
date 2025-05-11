@@ -12,7 +12,7 @@ role = "Senior Lecturer | BIU"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Bar-Ilan University", url = "" } ]
-organizations = [ { name = "Head of AI & Tech Innovation | [Stealth HealthTech Startup](https://www.medibyt.com/)", url = "" } ]
+organizations = [ { name = "Head of AI & Tech Innovation | Stealth HealthTech Startup", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include statistical signal processing, digital signal processing and estimation theory."
